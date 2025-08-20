@@ -9,5 +9,11 @@ Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on i
 
 ---
 
-## 📊 Results 
+## 📊 Encoder-only
 ![RQ1 Leaderboard](results/Sheet1.png)
+
+## 📊 Encoder-Decoder
+![RQ1 Leaderboard](results/Sheet2.png)
+
+## 📊 Decoder-only
+![RQ1 Leaderboard](results/Sheet3.png)
