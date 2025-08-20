@@ -9,5 +9,5 @@ Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on i
 
 ---
 
-## 📊 Results (open the CSVs)
-- RQ1 — Fine-tuning methods: [CSV](results/rq1_summary.csv)
+## 📊 Results 
+![RQ1 Leaderboard](results/Sheet1.png)
