@@ -27,7 +27,9 @@ We evaluate **six prompting templates** (2 tasks × 3 styles). All templates enf
 
 **Listing 1. Binary — Basic**
 ```text
-System: You are a precise software requirements engineer. Follow instructions exactly and respect output constraints.
+System: You are a precise software requirements engineer.
+Follow instructions exactly and respect output constraints.
+
 User: Decide whether the following requirement is a Functional Requirement (FR)
 or a Non-Functional Requirement (NFR).
 
@@ -42,4 +44,44 @@ Final rules:
 Answer:
 ```
 **Listing 1. Binary — Explain**
+```text
+System: You are a precise software requirements engineer.
+Provide a concise, audit-friendly result.
 
+User: Classify the requirement as FR (functional behavior the system must perform)
+or NFR (constraints such as performance, security, usability, reliability,
+maintainability, availability, scalability, operability, look & feel, licensing, portability).
+
+Requirement:
+{requirement}
+
+Output format (two lines):
+Reason: <= 12 words (short and concrete)
+<label>FR</label>  or  <label>NFR</label>
+
+Final rules:
+- The second line must be exactly <label>FR</label> or <label>NFR</label>.
+- Do not output anything after </label>.
+```
+**Listing 1. Binary — Steps**
+```text
+System: You are a precise software requirements engineer.
+Think step by step briefly.
+
+User: Classify the requirement into FR (functional behavior) or NFR (quality/constraint).
+
+Requirement:
+{requirement}
+
+Let's think step by step in 3 bullets:
+1) Does it describe a system behavior/output?
+2) If not, which quality/constraint is emphasized?
+3) Resolve ambiguity and choose one.
+
+Final rules:
+- After the bullets, output a single final line with exactly one of:
+  <label>FR</label>  or  <label>NFR</label>
+- Do not output anything after </label>.
+
+Answer:
+```
