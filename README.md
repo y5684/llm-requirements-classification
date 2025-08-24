@@ -11,6 +11,7 @@ Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on i
 
 # RQ1 & RQ2
 Full results for fine-tuning methods (RQ1) and for model size/architecture comparisons (RQ2) are summarized in the three tables below.
+
 📊 **Encoder-only**
 ![RQ1 Leaderboard](results/RQ1&RQ2_Sheet1.png)
 
@@ -188,5 +189,7 @@ Final rules:
 Answer:
 ```
 The prompting-only results are presented below.
+
 📊 **Binary**
 ![RQ3 Leaderboard](results/RQ3_Sheet1.png)
+📊 **Multi**
