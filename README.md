@@ -193,3 +193,4 @@ The prompting-only results are presented below.
 📊 **Binary**
 ![RQ3 Leaderboard](results/RQ3_Sheet1.png)
 📊 **Multi**
+![RQ3 Leaderboard](results/RQ3_Sheet2.png)
