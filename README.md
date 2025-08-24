@@ -25,7 +25,7 @@ Full results for fine-tuning methods (RQ1) and for model size/architecture compa
 # RQ3
 We evaluate **six prompting templates** (2 tasks × 3 styles). All templates enforce an exact final label in `<label>…</label>`.
 
-**Listing 1. Binary — Basic**
+**Binary — Basic**
 ```text
 System: You are a precise software requirements engineer.
 Follow instructions exactly and respect output constraints.
@@ -43,7 +43,7 @@ Final rules:
 
 Answer:
 ```
-**Listing 1. Binary — Explain**
+**Binary — Explain**
 ```text
 System: You are a precise software requirements engineer.
 Provide a concise, audit-friendly result.
@@ -63,7 +63,7 @@ Final rules:
 - The second line must be exactly <label>FR</label> or <label>NFR</label>.
 - Do not output anything after </label>.
 ```
-**Listing 1. Binary — Steps**
+**Binary — Steps**
 ```text
 System: You are a precise software requirements engineer.
 Think step by step briefly.
@@ -81,6 +81,108 @@ Let's think step by step in 3 bullets:
 Final rules:
 - After the bullets, output a single final line with exactly one of:
   <label>FR</label>  or  <label>NFR</label>
+- Do not output anything after </label>.
+
+Answer:
+```
+**Multi — Basic**
+```text
+System: You are a precise software requirements engineer. Follow instructions exactly.
+
+User: Classify the requirement into exactly one of the following 12 categories
+(output only the ALL-CAPS abbreviation):
+- FR  Functional Requirement
+- A   Availability
+- L   Legal & Licensing
+- LF  Look & Feel
+- MN  Maintainability
+- O   Operability
+- PE  Performance
+- SC  Scalability
+- SE  Security
+- US  Usability
+- FT  Fault Tolerance
+- PO  Portability
+
+Requirement:
+{requirement}
+
+Final rules:
+- Output the final line exactly as one of:
+  <label>FR</label>, <label>A</label>, <label>L</label>, <label>LF</label>, <label>MN</label>,
+  <label>O</label>, <label>PE</label>, <label>SC</label>, <label>SE</label>, <label>US</label>,
+  <label>FT</label>, <label>PO</label>
+- Do not output anything after </label>.
+
+Answer:
+```
+**Multi — Explain**
+```text
+System: You are a precise software requirements engineer. Provide a concise, audit-friendly result.
+
+User: Classify the requirement into one of the 12 categories (output only the abbreviation):
+- FR  Functional Requirement
+- A   Availability
+- L   Legal & Licensing
+- LF  Look & Feel
+- MN  Maintainability
+- O   Operability
+- PE  Performance
+- SC  Scalability
+- SE  Security
+- US  Usability
+- FT  Fault Tolerance
+- PO  Portability
+
+Hints:
+- FR: functional behavior/output the system must perform.
+- Non-functional (A/L/LF/MN/O/PE/SC/SE/US/FT/PO): quality or constraint dimension.
+
+Requirement:
+{requirement}
+
+Output format (two lines):
+Reason: <= 12 words (short and concrete)
+<label>FR</label> / <label>A</label> / <label>L</label> / <label>LF</label> / <label>MN</label> /
+<label>O</label> / <label>PE</label> / <label>SC</label> / <label>SE</label> / <label>US</label> /
+<label>FT</label> / <label>PO</label>
+
+Final rules:
+- The second line must be exactly one <label>...</label> from the list.
+- Do not output anything after </label>.
+```
+**Multi — Steps**
+```text
+System: You are a precise software requirements engineer. Think step by step briefly.
+
+User: Classify the requirement into exactly one of the 12 categories (output only the abbreviation):
+- FR  Functional Requirement
+- A   Availability
+- L   Legal & Licensing
+- LF  Look & Feel
+- MN  Maintainability
+- O   Operability
+- PE  Performance
+- SC  Scalability
+- SE  Security
+- US  Usability
+- FT  Fault Tolerance
+- PO  Portability
+
+Requirement:
+{requirement}
+
+Let's think step by step in 4 bullets:
+1) Decide FR vs NFR (is it a concrete system behavior?).
+2) If FR, stop and choose FR.
+3) If NFR, identify which quality/constraint dimension best fits (A/L/LF/MN/O/PE/SC/SE/US/FT/PO).
+4) Resolve ambiguity by picking the single best category.
+
+Final rules:
+- After the bullets, output a single final line with exactly one of:
+  <label>FR</label>, <label>A</label>, <label>L</label>, <label>LF</label>, <label>MN</label>,
+  <label>O</label>, <label>PE</label>, <label>SC</label>, <label>SE</label>, <label>US</label>,
+  <label>FT</label>, <label>PO</label>
 - Do not output anything after </label>.
 
 Answer:
