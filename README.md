@@ -9,6 +9,8 @@ Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on i
 
 ---
 
+# RQ1 & RQ2
+Full results for fine-tuning methods (RQ1) and for model size/architecture comparisons (RQ2) are summarized in the three tables below.
 ## 📊 Encoder-only
 ![RQ1 Leaderboard](results/Sheet1.png)
 
