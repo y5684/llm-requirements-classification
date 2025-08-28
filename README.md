@@ -1,6 +1,10 @@
 # results-llm-requirements-classification
 Complete experimental results for the paper “Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques”: binary &amp; 12-class metrics.
 
+# Dataset — Enhanced Dataset for Requirements Classification
+
+This repository releases the datasets used in our requirements-classification study. The dataset/ folder includes the base corpus PROMISE.csv, the cleaned/normalized merge Original-Data.csv, and scale-up files LLM-generate.csv and LLM-generate+Paraphrasing_1–3.csv. Standard experimental splits are under dataset_binary/ (FR vs. NFR) and dataset_multi/ (12 classes). Each subfolder provides train.csv, val.csv, and test.csv. Rows contain the requirement text in Requirement and the label in Specific_Type (FR or one of {FR, A, L, LF, MN, O, PE, SC, SE, US, FT, PO}).
+
 # Results — LLMs for Requirements Classification
 Complete experimental results for the paper **“Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques.”**  
 Tasks: **Binary (FR vs. NFR)** and **12-Class (FR + 11 NFR subcategories)**.  
