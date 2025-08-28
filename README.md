@@ -1,11 +1,18 @@
 # results-llm-requirements-classification
 Complete experimental results for the paper “Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques”: binary &amp; 12-class metrics.
 
-# Dataset — Enhanced Dataset for Requirements Classification
+## Dataset — Enhanced Dataset for Requirements Classification
 
 This repository releases the datasets used in our requirements-classification study. The dataset/ folder includes the base corpus PROMISE.csv, the cleaned/normalized merge Original-Data.csv, and scale-up files LLM-generate.csv and LLM-generate+Paraphrasing_1–3.csv. Standard experimental splits are under dataset_binary/ (FR vs. NFR) and dataset_multi/ (12 classes). Each subfolder provides train.csv, val.csv, and test.csv. Rows contain the requirement text in Requirement and the label in Specific_Type (FR or one of {FR, A, L, LF, MN, O, PE, SC, SE, US, FT, PO}).
 
-# Results — LLMs for Requirements Classification
+---
+
+## Code Overview
+The code/ folder contains the core scripts used in our experiments. Under RQ1&RQ2/, we provide training/evaluation pipelines for the three backbone families: encoder-only_2.py / encoder-only_12.py, encoder-decoder_2.py / encoder-decoder_12.py, and decoder-only_2.py / decoder-only_12.py, covering the binary (FR vs. NFR) and 12-class tasks under a unified protocol. The RQ3/ folder handles prompting-only inference: llama_prompt_api.py calls instruction-tuned models via API, and llama_prompt_local.py runs the same templates and parsing locally.
+
+---
+
+## Results — LLMs for Requirements Classification
 Complete experimental results for the paper **“Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques.”**  
 Tasks: **Binary (FR vs. NFR)** and **12-Class (FR + 11 NFR subcategories)**.  
 Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on instruction-tuned models**.
@@ -13,7 +20,7 @@ Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on i
 
 ---
 
-# RQ1 & RQ2
+### RQ1 & RQ2
 Full results for fine-tuning methods (RQ1) and for model size/architecture comparisons (RQ2) are summarized in the three tables below.
 
 📊 **Encoder-only**
@@ -27,7 +34,7 @@ Full results for fine-tuning methods (RQ1) and for model size/architecture compa
 
 ---
 
-# RQ3
+### RQ3
 We evaluate **six prompting templates** (2 tasks × 3 styles). All templates enforce an exact final label in `<label>…</label>`.
 
 **Binary — Basic**
