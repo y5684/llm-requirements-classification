@@ -1,0 +1,272 @@
+﻿Requirement,Specific_Type
+The system shall locate the preferred repair facility with the highest ratings for the input criteria,FR
+Washing parameters will be updated during scheduled maintenance hours.,MN
+Formula substitutionary ingredients shall be kept in persisted order,FR
+The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.,FR
+Users shall be able to view at least 25 NFL player statistics and points on each page.,US
+Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.,PE
+The product shall record updated meeting agendas.,FR
+Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.,FR
+The system shall color code events according to their variance from current time.,FR
+A class shall be either a non-clinical class or a clinical class.,FR
+The product shall be expected to operate for at least 5 years for each customer installation.,SC
+Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.,FR
+The system shall display Events or Activities.,FR
+The website shall be capable of supporting 100 000 customers.,SC
+The system shall offer the ability to pause and resume the refresh of data.,FR
+The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.,LF
+Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,SE
+All of the users shall be able to use the system after one day of training.,US
+The website should cater to all tribes in Nigeria.,LF
+The product must comply with Sarbanes-Oxley.,L
+The product shall be robust.The product shall have fault avoidance based on standards adoption.,FT
+The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.,US
+Realtor shall be able to generate a CMA report based on property criteria,FR
+The adjuster shall enter the preferred repair facility on the estimate assignment.,FR
+The product shall use a standard navigation menu familiar to most web users.,US
+The PHP code will comply with PEAR standards.,L
+PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.,FR
+The product will notify employees of meeting invitations.,FR
+If the leads score falls within the low average then it will be returned to the supplying vendor,FR
+All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available),US
+Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.,FR
+The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.,FR
+The product shall prevent the player from overlapping ships on their grid.,FR
+The system shall allow modification of the display.,FR
+The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.,O
+The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.,PE
+The leads washing functionality will validate all leads received by the web service for valid data,FR
+The system shall achieve 95% up time.,A
+The website will use standard Internet conventions when interacting with the user.,US
+The Disputes System must be accessible by both internal and external users.,FR
+A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.,US
+The product shall be able to store new room equipment.,FR
+The product shall allow the player to position ships diagonally on their grid,FR
+The System shall not require additional third party licenses resulting in royalty fees.,O
+The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,FR
+The estimator shall apply selected recycled parts to the collision estimate.,FR
+Only authorized users shall have access to clinical site information.,SE
+The product shall be platform independent.The product shall enable access to any type of development environment and platform.,O
+The product must be developed with the J2SE/J2EE programming language libraries,O
+The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.,PE
+The leads washing functionality will verify the users authentication and rights to make parameter updates.,FR
+The system shall operate within the Windows XP Professional operating system.,O
+If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.,FR
+The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.,SC
+The product shall be easy for a realtor to learn.,US
+The product will record meeting acknowledgements.,FR
+The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.,O
+100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.,US
+The product shall allow a user to remove himself or herself from the list of players at any time.,FR
+The product shall use symbols and words that are naturally understandable by users familiar with websites,US
+The system shall display clear property images in the search results,FR
+All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.,L
+Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.,SE
+The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.,FR
+The system shall provide charts for the Activity or Event actual versus assumed time.,FR
+The Disputes System must provide the ability to view existing dispute cases.,FR
+Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.,O
+The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.,LF
+The system shall be built such that it is as secure as possible from malicious interference.,SE
+The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.,A
+Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.,FR
+The system shall be intuitive to the Program Administrators/Nursing Staff Members.,US
+If the leads score falls within the high average score then it will be process by the ARA functionality.,FR
+Izogn Administrator must be able to update the category listings on the website within 2 minutes.,PE
+The product shall produce search results in an acceptable time,PE
+All updates to data files or database must be initiated from the Disputes System.,SE
+System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.,PE
+The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.,SC
+The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.,US
+The application shall have a downtime of at most 10 minutes per year.,A
+The audit report shall include the percentage of available recycled parts used in the estimate,FR
+All actions that modify an existing dispute case must be recorded in the case history.,L
+The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.,FT
+The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.,FT
+The product must be able to interface with various email servers. The product shall be able to send email.,O
+The leads washing functionality will compile both contact and academic scoring information for a total score.,FR
+The product shall be used in office environments.,O
+A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.,FR
+The user shall select to save the preferred repair facility ratings.,FR
+The product shall allow a user to identify himself or herself as a player.,FR
+Staff members shall be able to complete a set of tasks in a timely manner.,PE
+The product shall display each type of ship in a grid using an image of the specific type of ship.,LF
+The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.,L
+Website shall allow customers to add their own movie review for a selected movie.,FR
+The server will support a maximum of 1 000 simultaneous users.,SC
+The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,US
+Data integrity scripts will be run on a weekly basis to verify the integrity of the database.,SE
+The leads washing functionality will insert all leads captured by the web service.,FR
+All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.,L
+A cohort shall be associated to one Program of Study offered by the department.,FR
+The product shall allow for customization of start page and views preferences.,US
+The product shall use symbols and words that are naturally understandable by the realtor community.,US
+The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.,US
+The product shall retain user preferences in the event of a failure.,FT
+The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.,FR
+The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.,FR
+Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.,SE
+Only administrators can activate a pre-paid card.,SE
+The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.,SC
+The system shall allow a real estate agent to query MLS information,FR
+The system shall display the local and exercise time in separate clocks,FR
+The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.,PE
+The preferred repair facility shall be returned to the user.,FR
+The Disputes application shall support 350 concurrent users without any degradation of performance in the application.,PE
+The product is expected to run on Windows CE and Palm operating systems.,PO
+The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.,L
+The look and feel of the system shall conform to the user interface standards of the smart device.,LF
+The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.,PE
+The system shall update or create new property listings in the MLS,FR
+All screens created as part of the Disputes application must comply with corporate standards for interface creation.,LF
+The system will provide a 24 hour 800 toll free number for support to its customers.,A
+The system shall be easy to use by the Program Administrators/Nursing Staff Members.,US
+The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.,FR
+Defect reports will be available to technical units on a 24x7 basis.,A
+The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.,US
+The system must be available for use between 7:00AM and 11:59PM all days of the year.,A
+system shall be able to handle all of the user requests/usage during business hours.,SC
+The product will display an available status for unreserved conference rooms.,FR
+The product shall allow a player to initiate a game by selecting another available player from the list of players.,FR
+The product shall be able to be installed in any operating environment within 2 days.,O
+The product shall assign the organizers contact information to each meeting they create.,FR
+The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,PE
+The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.,FR
+The System shall utilize currently owned computer equipment.,O
+The lead washing process will operate within the established physical web service structure.,O
+The product shall allow the player to position ships vertically on their grid.,FR
+The website shall prevent its data from being corrupted when incorrect data is entered in.,SE
+The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.,MN
+The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard,US
+The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.,PE
+The product shall respond fast to keep up-to-date data in the display.,PE
+User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..,SE
+The product will update existing room equipment.,FR
+The system shall retain the available recycled parts and suppliers returned from the search.,FR
+The table side of the display shall be split into 2 regions: sequential and temporal.,FR
+Classes for a given cohort shall not conflict with regards to the time and day that they are offered.,FR
+The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.,O
+The system shall notify customers of changes to its information policy.,SE
+The product should be able to be used by 90% of novice users on the Internet.,US
+Website must interface with the CyberSource API to process credit card transactions.,O
+The system shall provide a history report of changes made to the Activity or Event data,FR
+The System shall be able to automatically backup business data and restore them on demand.,O
+The product shall be able to delete room equipment.,FR
+A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.,US
+Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,FR
+The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.,LF
+The audit report shall include the total score of the audit which sums the indivual line items.,FR
+The ratings shall be from a scale of 1-10,FR
+The website will comply with W3C standards.,L
+The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.,LF
+The product shall comply with the estimatics laws relating to recycled parts usage.,L
+The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.,FR
+PME Subsystem shall allow for a product to exist in more than one submenu,FR
+Movies shall be encoded and streamed via Windows Media Player 9.0.,O
+All aspects of the website shall be accessed by a web browser over the Internet.,O
+The system shall filter data by: Venues and Key Events.,FR
+2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.,US
+A primary database will be used to store cached data for active users.,O
+We must be able to interface with any HTML browser.,O
+The appearance of the product shall appear professional,LF
+The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.,FR
+Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes,FR
+Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study,FR
+The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE
+The system shall generate an audit report based on the available recycled parts and the collision estimate.,FR
+The product shall allow for intuitive searching of available conference rooms.,US
+The product shall generate a CMA report in an acceptable time.,PE
+The user shall be able to download appointments and contact information for clients,FR
+The system shall be able to display a printable summary of the system log.,FR
+The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.,SE
+The product shall prevent its data from incorrect data being introduced.,SE
+System shall let existing customers log into the website with their email address and password in under 5 seconds.,PE
+The product shall run on the existing hardware for all environments.,O
+Every user of the system shall be authenticated and authorized.,SE
+The product shall have a consistent color scheme and fonts.,LF
+The product shall maintain a list of players.,FR
+The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.,SC
+System shall let Izogn Manager access sales and usage statistics in under 2 minutes.,PE
+The product shall be able support 1000 simultaneous users.,SC
+The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.,SE
+The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.,MN
+The product shall record all the equipment that has been reserved.,FR
+The adjuster shall request a recycled parts audit of the collision estimate.,FR
+The estimator shall search for available recycled parts using a list of preferred parts suppliers.,FR
+The product shall allow an organizer to invite other employees to meetings.,FR
+Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.,SE
+The system shall display Events in a vertical table by time.,FR
+The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers,FR
+Promotional updates to the website should take a day to update.,MN
+The product shall allow the user to select a chosen language from one of the target market countries.,US
+The Disputes System shall provide update access capability for authorized users of the application.,FR
+The estimator shall search for available recycled parts using damaged vehicle parts information.,FR
+Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.,SE
+The preferred repair facility ratings shall be saved by the system.,FR
+The system shall be able to call the seller or buyer to schedule an appointment,FR
+No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.,PE
+100% of saved user preferences shall be restored when system comes back online.,FT
+The product shall be able to be installed in the specified environment within 1 working day.,O
+The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.,SC
+New System version releases shall be released at the beginning of each NFL season.,MN
+The product shall synchronize contacts and appointments in an acceptable time.,PE
+The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.,FR
+Only registered realtors shall be able to access the system.,SE
+The product shall be available for distribution via the Internet as a binary or ZIP file.,O
+Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.,FR
+The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.,SE
+Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.,PE
+The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts,FR
+The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,FR
+Website must be fully operational with MSN TV2.,O
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,US
+The product shall allow a player to position ships horizontally on their grid.,FR
+The system shall notify the realtor when a seller or buyer responds to an appointment request,FR
+The system shall refresh the display every 60 seconds.,PE
+The product shall display a map of the company building showing conference room locations.,FR
+The application shall match the color of the schema set forth by Department of Homeland Security,LF
+The system shall offer a display of all the Events in the exercise.,FR
+The product shall allow the user to save the property search results.,FR
+The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.,SE
+The search radius shall be between 1 and 30 miles,FR
+The product shall comply with insurance regulations regarding claims processing.,L
+The product shall record different meeting types.,FR
+Only authorized personnel can access customer records in the database.,SE
+The audit report shall include the number of available recycled parts from the original search results.,FR
+Only users with Update access must be able to initiate dispute requests.,SE
+Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.,PE
+The realtor shall be notified of new client appointments after automatic synchronization with office system,FR
+The system shall use symbols and words that are naturally understandable by the user community.,US
+The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.,SC
+Website must be able to support free trial periods with various parameters set by the Izogn Manager.,FR
+The product shall display conference rooms according to search parameters.,FR
+The product shall remove players who have been inactive for 24 hours from the list of players.,FR
+The IQA subsystem shall take into account current inventory status and adjust inventory of substitutionary ingredients accordingly.,FR
+The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.,PE
+The system shall be used by realtors with no training.,US
+The bottom 3/4 of the table will hold events that occur according to its relevance to current time.,FR
+For leads that process longer than 25 seconds the system will record the event and duration,PE
+The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.,FR
+If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,FR
+An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.,US
+The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.,FR
+The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.,O
+IzognMovies shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.,L
+An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.,US
+The user shall select to view the preferred repair facility ratings.,FR
+98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls,O
+The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.,US
+The product shall be able to support multiple remote users,SC
+Only authorized personnel can access sales information.,SE
+One insurance company shall not be able to view another insurance companys claim data.,SE
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.,US
+The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,US
+The Disputes System shall provide view access capability for authorized users of the application.,FR
+The product shall allow a player to end a game at any time during the game.,FR
+The streaming server will have anti-virus software to prevent infection of malicious viruses.,SE
+The leads washing functionality shall receive a period list of available reps from the enterprise system.,FR
+The product shall adhere to the corporate Architecture guidelines,O
+The adjuster shall review the collision estimate.,FR
+The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.,SC
+The system will display a blank set of ratings if there are not ratings yet defined.,FR
+The System shall allow generation of Inventory Quantity Adjustment documents on demand.,FR

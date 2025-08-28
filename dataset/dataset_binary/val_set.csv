@@ -1,0 +1,272 @@
+﻿Requirement,Specific_Type
+NPAC SMS shall expect new key initiation to be requested on a per Service Provider application basis.,SE
+"Encryption technology is now routinely applied to network traffic to protect its passage across networks such as the Internet86, The enduring confidentiality of PHI and the low cost of storing huge volumes of intercepted network traffic combine to place stringent demands on the cryptographic protection of PHI during transmission.",SE
+Need will be determined by system design and by appropriate Threat and Risk Analysis.,SE
+NPAC SMS shall provide a mechanism to limit system entry for privileged NPAC SMS users on a specifiable per-port basis.,SE
+Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.,FR
+The CNG shall implement an authentication failure handling policy.,SE
+CNG shall be able to classify intra-LAN traffic that is simply bridged by the CNG itself within the CPN.,FR
+"1) The system shall provide a means to flag patients who require protection of their identity from others, including family, visitors, and non participating healthcare providers.",SE
+The administrator can remove buildings.,FR
+A list of available patients is displayed after login.,FR
+The meeting scheduler system shall reschedule a meeting to support conflict resolutions.,FR
+The intranet pages should display appropriately in all resolutions from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.,LF
+The system could provide the ability to update access privilege rules.,SE
+All additions of new users and modifications to user's access shall be recorded on the User Report.,SE
+At the start of each turn the product shall notify each player of his or her status.,FR
+The system should also record information about various sensitive inventory management operations such as deleting items and changing the price of items.,SE
+NPAC SMS shall ensure that the security audit data is available on-line for a minimum of 90 days.,SE
+It must allow a user to logout.,FR
+Security Domains enforce the security policies of their off-card Security Domain Provider.,SE
+Identifying and (where appropriate) protectively labelling information assets as confidential can be an important tool in staff training and awareness.,SE
+Can view all available products and can compare them and make a choice for purchasing products.,FR
+The system must provide authorization capabilities.,SE
+All applications under the GlobalPlatform shall be implemented in a hardware-neutral secure runtime environment,SE
+No personal data about a user is stored.,FR
+A user must be logged on to be able to view or edit any medical information.,FR
+"Organisations connecting to the EHRi and organisations hosting components of the EHRi must only use or disclose PHI for purposes consistent with those for which it was collected, except with the consent of the patient or person or as permitted or required by law.46",SE
+The NGN network should be provided with a CND location information.,FR
+SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall support detection of message deletion.,SE
+Rationale: Acceptable use agreements are an important part of ensuring that users are aware of their responsibilities (and hence help to support Security Requirement 16) as well as provide the basis for legal redress if users abuse their access rights.,SE
+NPAC SMS shall check return status.,SE
+The reliability of the overall program depends on the reliability of the separate components. The main pillar of reliability of the system is the backup of the database which is continuously maintained and updated to reflect the most recent changes.,FT
+The system shall allow the user to modify the location preference set of an already submitted meeting response.,FR
+"Statement: Retain, ensure availability, and destroy health record information according to scope of practice, organizational policy, or jurisdictional law.",SE
+Implementations of Privacy and security must be on par with industry standards.,SE
+Another example would be an EHRi user accessing EHRi records as a clinician and also sometimes as a researcher.,SE
+"Attacks against the NPAC SMS may be perpetrated in order to achieve any of the following: Denial of service to a customer by placing wrong translation information in the SMS, Denial of service to a customer by preventing a valid message from reaching the SMS, Disrupting a carrier's operations by having numerous spurious calls (to users who are not clients of that carrier) directed to that carrier, Switching customers to various carriers without their consent, Disrupting the functioning of the NPAC SMS by swamping it with spurious messages.",SE
+The CNG Remote Management requires to manage a specific set of parameters. At least the following list of parameters shall be available: Customer Identification Physical Line Identification list of subscribed services CNG IP address.,FR
+NPAC SMS shall record actual or attempted logins in audit logs after an NPAC-tunable parameter threshold of consecutive login failures.,SE
+It is possible to search a person by name.,FR
+The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.,PE
+NPAC SMS shall require non-null passwords.,SE
+New and Delete buttons will allow the physician/pharmacist to add a notation to the patient’s file.,FR
+A GlobalPlatform card offers Entity authentication - in which the card or the off-card entity proves its authenticity to the other entity through a cryptographic exchange.,SE
+The OPEN shall be responsible to maintain security and administration of the card and its content.,SE
+Ability for the data center admin to recover all messages.,SE
+"""The Application Provider is responsible for Generating the keys for its own Security Domains or obtaining Security Domain keys from a trusted third party,""",SE
+"Since so many aspects of data protection are now regulated by detailed laws and regulations, a number of complaints will be answered by informing the complainant of what the law requires an organisation to do in specific circumstances.",SE
+"The RLCS shall incorporate a database to store, process, and retrieve all data necessary to secure the system from unauthorized use, The processing code at the FCU and DCU controllers shall be resident in non-volatile memory.",SE
+SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall verify that every time the authenticator is used the value of the sequence number will be incremented by one.,SE
+The users in the application are all equal so there is not the need of any identity management level.,SE
+"""The system, prior to access to any PHI, shall display a configurable warning or login banner (e.g. 'The system should only be accessed by authorized users').",SE
+It is a card issuer's decision to determine the currencies that are allowed to occupy slots in the CEP card. This decision is made by the card issuer during the load or currency exchange transaction by approving or rejecting the request to authorize the transaction,FR
+The life cycle models is responsible to functionality and security of Card Executable Load Files Executable Modules Security Domains and Applications.,SE
+Confirmed registration Given the restaurant owner has applied for verification And has not received a confirmation e-mail after registration When the restaurant owner receives a confirmation e-mail Then the restaurant owner should be able to log in,FR
+The system should ensure the integrity of data exchange.,SE
+The system shall allow user to select the product to configure.,FR
+The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.,A
+"SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall keep a log of all of the following: Incoming messages that result in the setup or termination of associations, All invalid messages (invalid signature, sequence number out of order, Generalized Time out of scope, sender not authorized for the implied request), All incoming messages that may cause changes to the NPAC SMS database.",SE
+Only valid data shall be entered into the system. No invalid data shall be entered into the system.,SE
+"Usage of the search feature DESC: The different search options should be evident, simple and easy to understand.",FR
+A credit command which contains the S2 MAC computed by the PSAM using the session key is sent to the CEP card,SE
+"The RLCS software shall display information about active overrides: Which are active, and which devices have no currently active 'rules protection' against erroneous opening/closing.",SE
+"The CEP card may support multiple currencies. Each currency occupies a ""slot"" within the CEP. The slots are defined by the currency supported. The currency for an individual slot is determined during load or currency exchange. Currency exchange could apply to a single slot and then only for the total balance",FR
+The system shall display all the products that can be configured.,FR
+NPAC SMS shall allow authorized NPAC SMS personnel to initiate a new key for messages.,SE
+"Organisations hosting components of the EHRi, must restrict and control the use of system utility programs.",SE
+The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level. The report will be reviewed for auditing purposes.,SE
+Enable a logged in user to ask questions.,FR
+The system shall run on Windows Server 2003.,PO
+All text elements in the user interfaces are presented in the selected language English and Dutch.,US
+"In this case, user is able to browse categories according to his/her wishes. User can also see how many items each category has.",FR
+NPAC SMS shall ensure proper serialization of update transactions.,SE
+The system shall prevent the user from changing object/project values once that project has been used in a model run.,SE
+"Termination of user access privileges will also include termination of digital signatures (see ""Security Requirement 79 Providing Digital Signatures for Users"").",SE
+When forwarding packets from the WAN interface to the customer network the CNG shall perform one of the following three actions depending on the classification results: manage a number of queues corresponding to the different priorities detected in the classification phase for each packet processed send the packets to some internal buffers or simply drop the packet.,PE
+The user ID and the password should not be shared with anyone (students/staff/or anyone else).,SE
+Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.,FR
+"In this case, user can change his/her username, email address, profile picture and password. If the user changes his/her username or password, a notification mail will be sent to the user's email address. The changes will apply if the user clicks on the link in the email.",FR
+"This is especially important where the information is contained in email, faxes or other documents which may contain a mixture of confidential and non-confidential information.",SE
+"All POS systems connected to the EHRi must ensure that each user will access applications and services of the EHRi in a single role (i.e., users who have been registered with more than one non-overlapping role must designate a single role during each EHRi session).",SE
+3)maintain the security of information when the responsibility for information processing has been outsourced to another organisation.,SE
+The administrator can remove edges of a path which is used in the route planner.,FR
+The system should maintain correct schedules of labs and the documentation of all the lab equipment.,FR
+The CEP card verifies that the PSAM is the PSAM used in the original transaction computes a S1 MAC using the same DES session key that was used for the purchase transaction being cancelled and responds to the POS device with the S1 and the identification of the last transaction. If the purchase transaction to be canceled has been canceled or is not part of the active batch the command is not allowed,SE
+On reception at the CNG of a message to access configuration information for update and detection of authorization failure the CNG shall reject the request and manage the failure in accordance with the CPN authorization management handling policy.,SE
+All on-line messages must have the ability to include card issuer discretionary data from the CEP card,FR
+For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.,O
+With the use of an existing Passport account the user can login to the messenger.,SE
+New users can sign up by creating new ID.,FR
+Each team owner will need to use a username and password in order to be authenticated to reach the team owner's page,SE
+Log in to an account shall require entry of an account name and a password.,SE
+"To enforce these security requirements the following functionality is needed: Authentication, Data Integrity and Data Confidentiality.",SE
+The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.,FR
+"If there is a network issue, the chat window will display an error message.",FR
+All of these can be addressed through the use of encryption.,SE
+"Mobile application - Sorting results DESC: When viewing the results in a list, a user should be able to sort the results according to price, distance, restaurant type, specific dish or restaurant name. When sorting by restaurant name, specific dish or restaurant type the results should be ordered alphabetically. When sorting by price the results should be ordered from cheapest to most expensive. When sorting by distance the results should be ordered from closets to furthest distance according to the user's position. When the sort button for a specific search option is clicked, then the order should be reversed and ordered in a descending matter. If the sort button is clicked again the order of the results should be reversed.",FR
+NPAC SMS shall have documented procedures for data restoration.,SE
+The GlobalPlatform API shall provides services to the application such as card verification and security services,SE
+The system is configurable to e-mail warnings about multiple failed login attempts from the same user.,SE
+"-privacy, security and business continuity risks must be analysed by means of a Threat and Risk Assessment (see section 5.2) and those risks must be managed against the objectives set by the security policy;",SE
+It will also require consistent policies and procedures for issuing digital certificates that meet the high standards of digital certificate issuance demanded of e-prescribing.,SE
+Website shall allow the Izogn administrator to approve a review posted by a customer.,FR
+If the business rules allow this transaction is to be aggregated the PSAM must determine if it has an aggregation record for the card issuer. If the PSAM does not have an aggregation record for the card issuer a new aggregation record for the card issuer must be created,FR
+An example of User based authorization is a patient defined denial of access to all or part of a record to a particular party for privacy related reasons.,SE
+"The user can also set the price, set the amount, upload pictures of the item and add details of the item.",FR
+The system must provide authentication capabilities.,SE
+A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.,FR
+The system must secure all modes of data exchange.,SE
+The system is expected to have reasonable short time response. The voter should be able to login and should be able to get response for his requests in 2-3 seconds.,PE
+The system shall provide a way to extract goals data-usage information according toas per the user's privacy preferences in accordance with the P3P standard.,SE
+The system must provide the ability to view the change history of particular data to authorized users.,SE
+"The first type, general user, shall only be permitted to utilize a limited set of the capabilities of the tool.",SE
+The system should facilitate login.,SE
+Appropriate content presentation also plays a key role in accessibility.,SE
+The administrator shall have the ability to block all access to the system for all users or selectively by user.,SE
+"NPAC SMS shall provide a mechanism to restrict user login based on time-of-day, day-of-week, and calendar date.",SE
+All organisations hosting components of the EHRi must subject system logs and audit logs to detailed review; on a regular and ongoing basis.,SE
+the user can rate and comment about the users whom he traded with.,FR
+The administrator can modify the list of news RSS-feeds that are available in English.,FR
+NPAC SMS shall provide an option for automatic reactivation of disabled userids.,SE
+Flexibility is required to accommodate the variety of environments where unlinked loads may be implemented. As a result the design specification must not preclude dual-leg transactions** from taking place either sequentially or in parallel. The design of a given implementation will vary depending on the device host and network capabilities,PO
+The system shall allow user to select available promotion.,FR
+Functionalities related to Electronic Programming Guide and DRM management shall be implemented in STB or media gateway and not in CNG.,FR
+Manitoba's health information legislation requires a trustee who uses electronic means to request disclosure and to respond to requests for disclosure to implement procedures to prevent the interception of information by unauthorized persons.,SE
+The system shall display tax information for the order.,FR
+The product shall simulate the look of ships at sea.,LF
+The process of overriding a device status shall not affect the status of any other device.,SE
+c) treat all received complaints as confidential.,SE
+Ability for the data center admin to recover by time.,SE
+All information must be viewable on the website.,FR
+The CEP card sends a response to the reversal command to the POS device. The reversal is considered to be successful even in the event of a negative response or no response from the CEP card,FR
+Add a new restaurant owner Given the administrator is logged in When the administrator creates a new restaurant owner Then the new restaurant owner should be added,FR
+"The ability of the user to update the calculated ratings and status in the database shall be a controlled privilege, Agencies may optionally exclude/prohibit direct edits to the calculated inspection results such as the NBI translator output, The agency shall therefore be able to enforce strict use of calculated translator results for calculating NBI condition ratings.",SE
+System will have different types of users and every user has access constraints.,SE
+Confidentiality security requirements describe the need to protect the data appropriately.,SE
+The system shall allow user to choose their preferable topping.,FR
+The DUAP System shall require users to log in for system access.,SE
+The system should provide the ability to exchange user data using formal standard information models and standard terminologies.,SE
+These totals are used by the merchant acquirer to ensure the integrity of the batch,SE
+A Controlling Authority is responsible for Working with the Card Issuer to load generated keys into the Controlling Authority's Security Domain,SE
+Each Trusted Framework present on the card shall Check the application access rules of the inter-acting Applications according to their respective privileges,SE
+The system will fully function in major browsers.,PO
+The system shall not leave any cookies on the customer's computer containing the user's password.,SE
+"As outlined in Privacy Requirement 5, organisations connecting to the EHRi and organisations hosting components of the EHRi should limit collection of PHI to that which is necessary for the identified purposes.",SE
+It must store the most recent copy of information in its application data folder.,FR
+"If the System allows users to make unauthorised attempts to access cases, it must log these in the audit trail.",SE
+The meeting scheduler system may be able to include an agenda for a meeting proposal.,FR
+Select Swedish as preferred language Given the administrator wants to select a preferred language When the administrator selects Swedish as a new language Then the web-portal will show all text in Swedish,FR
+"The system should display grade information such as the grade for each assignment, averages, and overall grade to the actor to whom the grades belong.",SE
+10000 users should be able to use the system at the same time.,FR
+The product shall record the transportation status of equipment reserved.,FR
+We must be able to interface with the following browsers: IE 5.X 6.0 Netscape 6.x 7.x 8.x and Firefox 1.0.,O
+Since these transactions are on-line to the issuer the issuer has the opportunity to lock the card or the application. These transactions are not available to a card that has already been locked,SE
+The Load File Data Block Hash is used in the computation of The Load File Data Block Signature.,SE
+"the user can approve the exchange that is offered by another user by clicking Approve"" button.""",FR
+NPAC SMS shall provide a mechanism to limit system entry for privileged NPAC SMS users on a specifiable network access.,SE
+"SFTP is supported in both active and passive modes, configurable per vendor.",SE
+On receipt of a valid (i.e. authorized) request for access to a CNG hosted service or application the CNG shall provide the requested service or application to the requesting user.,SE
+The administrator can remove vertices of a path which is used in the route planner.,FR
+The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.,O
+POS systems must support the unique identification of users.,SE
+Hard Drive Space GIST: Hard drive space. SCALE: The application's need of hard drive space. METER: MB. MUST: No more than 20 MB. PLAN: No more than 15 MB. WISH: No more than 10 MB. MB: DEFINED: Megabyte,PE
+The notification of the game ending will include the reason the game is ended (i.e. a player has won the game or a player has ended the game).,FR
+The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members' planning purposes.,FR
+"If a user performs a quick or advanced search, the System must never include in the search result list any record which the user does not have the right to access.",SE
+The CND shall support protocol to access the NGN service layer platforms.,FR
+This export on hardcopy and electronic output shall leave the actual PHI data unmodified in the original record.,SE
+The CNG may provide Home to Home (H2H) communication service connecting CNDs in different CPNs.,FR
+The system shall allow user to view detailed sitemap.,FR
+90% of untrained realtors shall be able to install the product on their device without printed instructions,US
+Pre-paid cards shall be distributed via email or via a printed paper card.,FR
+The database will be updated periodically and the API will be unavailable during the update.,FR
+-developing and implementing security awareness training programs (see Security Requirement 16);,SE
+The system must authenticate requests that access a restricted Web page.,SE
+The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.,MN
+"System shall let customers register on the website as a ""pay as you go"" user in under 5 minutes.",PE
+The CNG shall support mechanisms for managing IPTV flows provided both in unicast and multicast mode.,FR
+The card issuer generates S2 which is sent to the card to allow the card to validate the card issuer's authenticity and to ensure that the data used by the card in the transaction is the same as the card issuer intended,SE
+It suffices that such tools be available when needed.,SE
+An application instance shall be able to be reusable every semester for a returning student.The user will be able to update their class schedule by having the application check for a registered schedule set for the next semester and if the current school semester is over.Application components will be able to be integrated into the larger RU Mobile application developed and maintained by Radford University.,LF
+1) MVI (Master Veteran Index) will be the only system used by the DAS (Data Access Service) for any identity management function.,SE
+Send transactions to card issuers or their processors in a standard format defined in agreement with the scheme provider,FR
+"Restaurant Owner Account Security GIST: Security of restaurant owners accounts. SCALE: A restaurant owner and IP address should not be able to log-in for a certain time period after three times of failed log-in attempts. METER: 1000 attempts to log-in during the lock period after user account has been locked because of failed log-in attempts of three times. MUST: The locking period should be half an hour, and during that period the log-in function is disabled.",SE
+NPAC SMS shall provide a mechanism to limit the users authorized to access the system via dial-up facilities.,SE
+NPAC SMS shall provide post-collection audit analysis tools that can produce exception reports on communication failures relating to system intrusions.,SE
+"Mobile application - Search by destination DESC: A user should be able to input a maximum and a minimum distance, according to his/her position. By default the minimum distance is set to 0 km and the maximum to 10 km. The user should be able to input a higher or lower maximum distance and a higher minimum distance than set by default. The result is displayed in a map view by default.",FR
+The logon screen shall activate command control for the user if the user requests it and has authorization.,SE
+The load device which supports only off-line PIN verification must support both the off-line PIN encryption method and the off-line PIN plain text verification method as defined in EMV,SE
+6)ensure information security when using mobile computing and tele-networking facilities.,SE
+Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.,US
+"For example, Alberta's health information legislation requires a custodian that discloses PHI to make a note of the name of the person to whom the custodian disclosed the information; the date and purpose of the disclosure; and a description of the information disclosed.",SE
+SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall ensure that external messages received have a generalized time in the access control information within 5 minutes of the NPAC SMS system clock.,SE
+"Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)",SE
+The product shall record meeting entries.,FR
+The system should display grade information to the appropriate actor.,SE
+Return to List is available if the patient loaded is not correct.,FR
+On detection of a message integrity error at the CNG the CNG shall discard the message.,SE
+"Because this application will be on a phone, portability is also important. We don't want it to take up so much space or be too slow causing the user's to not be able to fit it on the device.",US
+Select English as preferred language Given the administrator wants to select a preferred language When the administrator selects English as a new language Then the web-portal will show all text in English,FR
+In case of multicast flows the CNG shall keep a record of which devices are subscribed to which multicast group.,FR
+Usage of the result in the list view DESC: The results displayed in the list view should be user friendly and easy to understand. Selecting an element in the result list should only take one click.,FR
+Context-based Authorization is defined by ISO 10181-3,SE
+5)ensure the safeguarding of information in networks and the protection of the supporting infrastructure;,SE
+Any page of the application should not take more than 6 seconds to load on a DSL broadband connection.,PE
+Every user account is protected with a personal password.,SE
+Velkat staff will be available for phone support between 7am-7pm M-F to provide technical support to the Izogn administrators.,A
+The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.,SE
+The vehicle location shall include street address city state and zipcode,FR
+The recycled parts search results provided to the estimator shall be retrieved by the system.,FR
+When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.,LF
+The audit report shall be displayed to the user.,FR
+Agenda is restricted to what is available in the feeds on the list of agenda RSS-feeds.,FR
+The product shall prevent a player from viewing the offensive or defensive grids of the other player.,FR
+"NLM Staff Metadata Access: Provides an NLM Staff Level allowing access to staff to add or edit descriptive metadata (without changing the files themselves) for production and work related needs such as cataloging, indexing and modifying metadata.",SE
+"Each command (at the device sensor command, device command(macro), or system operational command (super macro) level) shall only be executed when a valid or good status exists for all device sensors, An authorized user shall be able to log in and issue device status requests and control commands from specified computers in the network, This is determined based on the user's access level and authorized workstations.",SE
+The leads washing functionality will have an interface in which lead data parameters can be maintained.,FR
+The system must encrypt sensitive data that are transmitted over the Internet between the server and the browser.,SE
+The CNG and the Customer Network shall provide the opportunity for a customer network administrator to perform service and network-related configuration. According to the service/network provider choices the CNG and Customer Network may prevent - user initiated modification of network and service related parameters.,SE
+The system must provide at application level a full security and encryption policy compatible with the level of security required in such situation.,SE
+The CAS shall have a quality manager security group.,SE
+The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.,FR
+Users whose roles include a role with access to emergency override functions and who invokes that role in a non-emergency situation in order to exercise those emergency override functions may therefore be subject to disciplinary procedures based upon the evidence provided by the audit log.,SE
+Should a user select to download the catalogue PDF it will be viewed on their mobile device.,FR
+"The system shall support protection of integrity of all Protected Health Information (PHI) delivered over the Internet or other known open networks via SHA1 hashing and an open protocol such as TLS, SSL, IPSec, XML digital signature, or S or MIME or their successors.",SE
+Everyone (stakeholders and guests) can have access to the system and the catalogue. Every client must have secure and private access to his/her data. The and the service man can have access to every part of the system. All these accesses (except the “guest tour” access) require identification through ID and password.,SE
+When applicable a Security Domain shall Verify the load file data block signature when requested by the OPEN.,SE
+These warnings are sent to the System Administrator.,SE
+5)detect unauthorized activities; and,SE
+Izogn Administrator must be able to add new products to the website within 2 minutes.,PE
+"The system must be such that none of the Member States of the network, including the administrator, re-construct a consolidated European database.",SE
+It is possible to search for a certain building on the campus of the TU/e by name.,FR
+The CEP card authenticates the terminal using the S2 MAC and the session key from the purchase transaction being cancelled. The CEP card increments the value of the purse and logs the transaction. The CEP card verifies that the cancellation amount is equal to the amount of the last step of the purchase transaction,SE
+The to-location is selected from the search result described in UCAR215 and UCAR216.,FR
+When the Facebook-app is started the page of TU/e on Facebook is shown on the title screen.,FR
+The system shall query the user for the account type.,FR
+The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports,LF
+When the Encyclopedia-app is started the most searched items are shown on the title screen.,FR
+The POS device must ensure that it is dealing with an authentic card and guarantee integrity of transactions and batches to the merchant acquirer,SE
+Secure data transfer over the Internet could be provided using SSL encryption that will be configured by the host system administrator.,SE
+Codec requirements and capabilities for the User Equipment (including the CNG) are already defined in TS 181 005 [1] which describes service requirements and capabilities for the TISPAN NGN.,L
+The available server must be reliable and the network connectivity in the supermarket should be proper for smooth flow of all operations and data.,O
+"Any access to cases, and all other activities involving the cases and related documents or data should also need to be stored in the audit trail to ensure legal admissibility and to assist in data recovery.",SE
+The menus of the system must be easily navigable by the users with buttons that are easy to understand.,US
+The System must allow a user to be a member of more than one group.,SE
+On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.,PE
+"In turn, controlling access is a minimum requirement of perimeter security.",SE
+The provision of emergency care and other situations in which adequate patient identification may not have been possible will inevitably create instances of multiple records for the same patient or person.,SE
+It should give a drill-down view of all data in the medical record after logging in.,LF
+The user interface must be GUI based.,US
+The system shall utilize HTTPS communication to ensure data confidentiality.,SE
+"8) The system shall provide the ability to maintain varying levels of confidentiality in accordance with users' scope of practice, organizational policy, or jurisdictional law.",SE
+Revocation of user access privileges does not in itself alter the status of data that the user has already entered.,SE
+A new user will make less than 3 mistakes in 5 minutes after 5 minutes of use.,L
+"All POS systems connected to the EHRi must protect unattended workstations against an unauthorized person taking the opportunity to use the workstation while the POS is active, either with automatic timeout after a period of inactivity or by placing the workstations in a physically secure area.",SE
+Allows metadata harvesting by other institutions following the OAI-PMH guidelines.,SE
+When a ship is sunk the product shall simulate the sound of a sinking ship.,LF
+The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product's software code.,MN
+Multiple public identities on the same terminal shall be supported.,FR
+Contact with the vendors and give permission to sell their product under the site after testing the product’s quality.,FR
+The CNG shall support mechanisms for authentication of wireless CNDs for local connectivity. Similar mechanisms may be also implemented for non-wireless devices.,SE
+The system must provide audit capabilities to indicate the timestamp for data deletion.,SE
+System will use secured database.,SE
+Such active intrusion detection is an essential feature of robust security systems.,SE
+System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.,PE
+The product shall be able to display calendar dates and times according to the user's locale. 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,US
+The system shall allow the initiator to send and receive messages from users.,FR
+NPAC SMS shall be able to load a new key list in 15 minutes or less.,SE
+"after every user request, new maps are needed to be loaded",FR
+The vehicle data shall include vehicle year make and model,FR
+NPAC SMS shall have for every process running an associated userId of the invoking user (or the userId associated with the invoking process).,SE
+The information and the search methods of the Encyclopedia-app are restricted to the services provided by the MediaWiki of the TU/e Encyclopedia.,FR
