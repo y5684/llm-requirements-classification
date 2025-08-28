@@ -1,0 +1,1286 @@
+Requirement,Specific_Type
+A centralized management console will be provided by the system.,MN
+Product support staff must be trained to provide timely and effective technical support to end users to minimize downtime and maximize product usage.,MN
+The software needs to be compatible with the latest web standards.,PO
+A mechanism for repayment of funds associated with invalid transactions should be included in the dispute resolution process.,O
+The product shall adhere to the corporate Architecture guidelines for all development and testing phases.,O
+The system needs to support real-time operating systems.,PO
+The product will handle unexpected disconnections without losing active sessions.,FT
+"Every 45 seconds, the system will refresh the user dashboard.",PE
+"The product will have fault avoidance, based on standards adoption.",FT
+Increased processing power needs will be supported by the product.,SC
+Real-time data processing is allowed by the application.,PO
+Users will be able to reach the pages with one click from the owner's page.,US
+"On weekends, the system will provide availability from 7am to 11pm.",A
+NPAC SMS shall archive the security audit data off-line for a minimum of two years.,SE
+Consistency is a must in the product.,LF
+At least 99.8% of the year will be provided by the system.,A
+"When a ship's status changes, the product shall display a notification sound.",LF
+The product will make sure that the data is safe.,FT
+Application shall be deployable on at least three different mobile operating systems.,PO
+The system will be able to query up to one million records in 3 seconds.,SC
+In case of managed services QoS rules applied by CNG shall be configurable by a remote management system.,PE
+The movies will be used for 56k and 256k streams.,O
+The software needs to follow the Telephone Consumer Protection Act.,L
+"Application shall have a maximum downtime of 1 hour per month, with a 24/7 support hotline available for urgent issues.",A
+The application will be designed to support deployment in multiple regions.,SC
+6) The system shall conform to function IN.1.6 (Secure DataExchange).,SE
+The product should be easy to use for beginners.,US
+"Defect reports shall be available to technical units on a 24x7 basis, with a response time of 2 hours.",A
+Rationale: This is a minimum requirement for protecting system availability in the 24 by 7 operational environment of healthcare.,SE
+The product will have a professional appearance.,LF
+The system will be able to recover from network disruptions.,PO
+"In a quarter, the system must not take more than 2 hours of downtime.",A
+"A comprehensive user guide and videos will be included in the system, with 90 percent of users reporting that the resources helped them quickly become proficient.",US
+the user can add as many as items he/she wants.,FR
+The system needs to be able to support zero-trust environments.,PO
+"When users complete tasks successfully, the system will incorporate feedback animations.",LF
+NPAC SMS shall provide a password generator.,SE
+"The system will execute jobs within a maximum of 2 hours, regardless of the data volume.",PE
+The software will work well in both environments.,PO
+Server will support a maximum of 1500 simultaneous users.,SC
+The application will give real-time alert for critical system events.,FT
+The product will have a login screen.,LF
+The product shall able to handle a large number of games simultaneously.,PE
+The system can handle up to 5 million interactions a day.,SC
+"Users shall feel confident using the product, 85% of all users will be satisfied with the product",US
+The application needs to comply with the EAR.,L
+"When a shot is marked as a warning, the product shall simulate the sound of a warning siren.",LF
+"In addition to logging overrides of a patient or person's consent directives (Item b in the list above) and alerting accountable individuals that a consent override has occurred (item c in the list above), there is also a related requirement to notify patients or persons when access has been deemed inappropriate (see Privacy Requirement 20).",SE
+The application should be able to run in containers.,PO
+Application shall have a maximum downtime of 15 minutes per quarter.,A
+"As EHRs become increasingly interoperable and the number of EHR users grows, so to does the risk of inappropriate access.",SE
+The application will give round-the-clock service availability.,A
+All system components must work together.,O
+"When a player is injured, the product shall simulate the sound of a crowd gasping in shock.",LF
+The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,US
+Rreports must be easy to generate.,US
+"It is possible to ""like"" insApption from within the main menu.",FR
+"The drag-and-drop feature will be supported by the application, with 90 percent of users finding it intuitive.",US
+Multiple identities should be supported within the same subscription. Personal service profiles per each identity within the same subscription should be supported. A shared public identity on several terminals with different private identities shall be supported (shared IMPU).,FR
+The system should provide the ability to exchange user data using formal standard information models and standard terminologies.,SE
+The recycled parts search results provided to the estimator shall be retrieved by the system.,FR
+Increasing user loads without downtime is what the product must handle.,SC
+A new employee should be able to navigate the product within 10 minutes.,US
+Consistency in service quality is a must for the application to accommodate expansion.,SC
+If the shot was marked as a miss the product shall change the status of the defensive player to offensive,FR
+Users should find relevant articles within 3 minutes.,MN
+"The system can handle 500,000 concurrent user interactions.",SC
+"Every 30 seconds, the order tracking feature will provide updates.",PE
+The application needs to be able to hold a database of up to 1 TB.,SC
+"When a ship is launched, the product shall simulate the sound of a ship's engines roaring to life.",LF
+80% of users will find desired items in under 5 minutes.,US
+"The product will be able to manage 10,000 products.",SC
+The system will make sure that the data is synchronized.,FT
+The software should allow for configuration templates.,MN
+The product will be compatible with the existing corporate email system.,O
+A purchase transaction may be reversed prior to the removal of the CEP card from the POS device by sending a purchase reversal command to the CEP card The CEP card must authenticate the PSAM using certificates previously exchanged,SE
+The ISO has standards that the system must adhere to.,L
+The system will support real-time operations on cloud-native platforms.,PO
+Any interface between a user and the automated system shall have a maximum response time of 10 seconds for high-priority requests.,PE
+"When a user is on a call, the product shall display the caller's and supervisor's names in a prominent location.",LF
+Documentation will be reviewed and updated every 6 months to ensure accuracy and relevance.,MN
+Users will report their satisfaction with the product.,US
+The system will be able to function on a variety of screens.,PO
+The software has to comply with transportation regulations.,L
+"When a product is transferred from a development to a production environment, it must retain its function.",PO
+The product will ensure that most users can complete a task on their own.,US
+Compliance with the Fair Credit Reporting Act (FCRA) shall be maintained throughout the entire lifecycle of a dispute case.,L
+"The WCS system shall be available for use at least 99% of the time, with a maximum of 1 minute of downtime per day.",A
+"The most detailed provisions are found in Manitoba's health information legislation, which require the trustee to ensure that PHI is maintained in a designated area or areas that is subject to appropriate security safeguards; and to limit physical access to designated areas to authorized persons.",SE
+Keep track of each product item’s stocks for selling purpose.,FR
+All code repositories shall be encrypted and password-protected to prevent unauthorized access.,MN
+A primary database will be used to store data.,O
+80% of users should return to previous versions within 5 minutes.,MN
+Dynamic scaling should be supported by the product.,PO
+The product will make sure that user data is safe.,FT
+CPN environment shall be protected with a stateful firewall function that may be implemented in the CNG.,SE
+Product shall be able to support up to 1000 simultaneous users from different geographical locations.,SC
+Perform the calculation required to generate a signature using the PSAM's private RSA key to allow the CEP card to validate the PSAM,SE
+Enable a user to view questions and their corresponding answers.,FR
+The product will allow users to make informed decisions based on current data.,O
+The system will accept large data items.,FT
+When a ship is sunk the product shall simulate the sound of a sinking ship.,LF
+Dynamic resource allocation is required to maintain optimal performance during traffic spikes.,SC
+The application needs to offer online support.,A
+"The system will use high-quality,Scalable Vector Graphics (SVGs) for icons and illustrations, ensuring crisp and clear visuals on all screen sizes and resolutions.",LF
+It is possible to close calendar view.,FR
+Users will be able to subscribe to newsletters in under 5 seconds.,PE
+The system needs to give round-the-clock access.,A
+There must be built-in support for data sync across multiple locations.,O
+Required information for registration Given the restaurant owner wants to create an account And the restaurant owner does not have an account When the restaurant owner registers on the web-portal by providing user-name And password And address And e-mail address And phone number Then the restaurant owner should be able to apply for verification,FR
+Product shall be able to recover from network partitions and resume normal operation within 2 minutes.,FT
+IBM's internal intranet W3 shall be available at least 99% of the time.,A
+A mobile version of the system should be compatible with iOS and Android devices.,PO
+The map on the campus will give clues about what areas have prepared audio.,LF
+The application will have a drag-and-drop interface.,LF
+80% of viewers should be able to grasp the core message from 50 feet away if the information is displayed.,US
+"Access rights and conditions to materials and the directories/folders in which they are kept must provide for one or more of the following basic privileges, either alone or in combination: Create/Write access, Edit access, Read access, Delete access.",SE
+Context-based Authorization is defined by ISO 10181-3,SE
+"All user interfaces shall be designed to be accessible to users with disabilities, in accordance with corporate accessibility guidelines.",O
+Product shall allow users to download previously purchased content without internet connection.,FT
+Users will be able to report issues with the product.,O
+The system will provide continuous availability for financial transactions.,A
+"-privacy, security and business continuity risks must be re-analysed when significant changes are made to the components of the EHRi that the organisation is hosting (see section 5.2).",SE
+The feature of the application shall provide the optimized route for the given addresses,FR
+"In less than 10 seconds, the system will process refunds.",PE
+The Disputes application shall be available 24x7x365 with the exception of the following scheduled maintenance windows. Monday-Saturday 3:00am to 4:00am EST; Sunday 1:00am to 5:00am EST.,O
+The system will provide an alert mechanism for failures.,FT
+Users will be able to modify their dashboard and settings.,US
+User preferences shall be retained across different devices and browsers.,FT
+The product will make sure that all automated backups are completed within 15 minutes.,PE
+The user interface has buttons for navigation.,LF
+Code refactoring shall be performed on a quarterly basis to improve performance and reduce complexity.,MN
+peak loads of 5000 concurrent requests will be handled by the product.,SC
+"To facilitate robust data communication, the product must ensure compatibility with various networking protocols.",O
+The system will be able to handle high volumes of data traffic without performance degradation.,O
+"During peak usage times, the application must be high availability.",SC
+The application needs to support compliance with the FDA regulations.,L
+Any third-party software can be integrated into the system for added functionality.,PO
+CND location information should be provided to the NGN network.,O
+Product shall maintain data integrity by automatically rolling back to a previous consistent state in case of a failure.,FT
+"The application must allow users to pick their preferred language easily, with 85% of users satisfied with the language options.",US
+Each page shall contain a similar format with action items in one location and navigation buttons in a different location.,LF
+The product will load promotional offers in under 2 seconds.,PE
+High-resolution icons and images will be used in the system.,LF
+Ensuring that users can find relevant information quickly is what the product must offer.,US
+The system should display grade information to the appropriate actor.,SE
+The available server must be reliable and the network connectivity in the supermarket should be proper for smooth flow of all operations and data.,O
+Application shall have a maximum of 5 minutes of downtime per month,A
+The system must manage structured documents.,SE
+A survey will show that 90 percent of users feel confident buying gift cards after 4 weeks.,US
+Refresh of facility ratings shall be completed within 3 seconds.,PE
+80% of viewers must be at least 60 feet away from the screen to see key events.,US
+The system can accommodate large data items.,FT
+"""It is the responsibility of the Card Issuer or the Controlling Authority to set up the appropriate off-card procedures to comply with the governmental restrictions upon cryptography. Features to disable or restrict cryptography usage by Applications on a card are beyond the scope of this Specification"".",SE
+85% of users need to generate custom reports within 10 minutes.,MN
+All logs should be preserved during failures.,FT
+"Within 2 seconds, the product will give an overview of system performance.",PE
+Stable performance during high-traffic periods will be ensured by the product.,SC
+The system is expected to support more than one virtual machine environment.,PO
+The application needs to allow real-time data processing.,PO
+The system will make sure critical functions remain accessible during partial outages.,FT
+Product shall allow users to save and retrieve frequently used settings and configurations.,US
+The software has to support backups at regular intervals.,FT
+The preferred repair facility is returned within 8 seconds.,PE
+The system shall be capable of integrating authentication and permissions with BRIDGEWare.,SE
+seamless integration with social media platforms will enable users to share content and updates directly from the application.,LF
+The Advertising Standards Authority has rules for marketing materials.,L
+The Telephone Consumer Protection Act requires all user consent to be complied with.,L
+"Portability is a key feature for this software, and it must be able to run on multiple operating systems.",PO
+"The system shall guarantee atomic database transactions to ensure maximum data integrity, using standard .NET transaction management capabilities.",SE
+The private identities of non-IMS capable CNDs will be stored by the CNG.,O
+Integration with social media platforms for data sharing is supported by the product.,O
+"Healthcare demands high system availability, especially in those instances where disruptions of supporting utilities are caused by disasters that themselves result in injuries and therefore place a heavy burden on emergency health services.",SE
+The application will have a feature to reset failed operations.,FT
+The product has to support distributed computing environments.,PO
+"Finally, digital signatures play an important role in providing so-called ""security assertions"" -reliable attestations that a given user or system has a given attribute.",SE
+The product will ensure that large-scale data imports are processed within 20 minutes.,PE
+"Rationale: The ultimate goal is to have no secret, or unspecified, collections, uses or disclosures of personal information held in an EHRi or in POS systems connected to the EHRi.",SE
+The product will accommodate any new technology with no change in its architecture.,MN
+The screen will take no longer than 7 seconds to load after the user submits a query.,PE
+Users shall be able to easily distinguish between different types of data being displayed.,US
+The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.,O
+The application needs to provide real-time data updates without requiring a page refresh in order to ensure that users always have access to the latest information.,US
+"Ensure interoperability with third-party software and applications, minimizing conflicts and maximizing system functionality.",O
+The product must comply with the FOI Act.,L
+Users will be able to access account settings in under 3 seconds.,PE
+The application needs to support seamless data migration.,SC
+Email notifications must be sent within 3 seconds of a triggering event.,PE
+A knowledge base and user guide will be provided by the product.,O
+"For up to 10,000 concurrent users, the application will ensure that response times stay under 2 seconds.",SC
+Increasing user loads without downtime is what the product needs to be designed to handle.,SC
+The product will poll the system for new messages at a maximum of every 1 second.,PE
+Any changes to the product's architecture must be thoroughly tested and validated by the development team before being implemented.,MN
+"The service will be open 24 hours a day, including weekends.",A
+The system shall be able to detect security-relevant events that it mediates and generate audit records for them.,SE
+Fault tolerance mechanisms shall be implemented to ensure continuous operation of product features.,FT
+The CND should support protocols for remote access management.,FR
+All business rules specified in the Disputes System shall be in compliance to the guidelines of the Uniform Commercial Code (UCC).,L
+The system needs to accommodate scaling up storage capacity.,SC
+The system needs to be compatible with the Kubernetes platform.,PO
+The system shall allow users to view equipment information.,FR
+"Product shall be able to interface with existing customer relationship management (CRM) systems, providing seamless integration and data synchronization.",O
+Compliance with the Americans with Disabilities Act is supported by the application.,L
+The product will track changes to system configurations.,FT
+The system will function efficiently on both low- and high-end systems.,PO
+The meeting scheduler system may be able to include a list of required equipment for a meeting proposal.,FR
+NPAC SMS shall ensure proper rule checking on data update.,SE
+The language can only be selected in the main app.,FR
+It should take less than 120 seconds for a new user to register.,US
+The CND shall support protocol to access the NGN service layer platforms.,FR
+"In the event your account has been compromised, notify the NJIT help desk immediately. Refrain from using the infected account to communicate with anyone else.",SE
+Product shall prevent denial-of-service attacks by blocking suspicious traffic.,FT
+All business rules specified in the Disputes System shall be in compliance with the guidelines of the Truth in Lending Act.,L
+"In case of faulty updates, the product will enable rollbacks to previous versions.",FT
+The application should be able to function on devices with varying levels of processing power.,PO
+The system should be able to adapt to different industries.,PO
+Automatic updates for third-party integrations should be provided by the product.,MN
+Critical processes will be prioritized to ensure minimal impact.,FT
+Defect reports will be available on a 24x7 basis.,A
+"In this case, the user can edit the items that he/she has already put on the system. The user can add/remove pictures, change the price and details of the item.",FR
+All new features and functionality will be thoroughly tested on a range of hardware and software configurations to ensure compatibility and reliability.,MN
+The product must be developed with the J2SE/J2EE programming language libraries,O
+The user activity logs will be easy to understand and visually appealing.,LF
+The application needs to make sure backups are up-to-date.,FT
+An end-user may use this portable application on any device with a web browser.,PO
+The system needs to be adjusted for environments with intermittent network connections.,PO
+Automatic error reporting is a feature that must be included in the system.,MN
+The application has built-in recovery procedures for common failures.,FT
+If this is not a cash load the funds issuer needs to verify that the funds are requested by the legitimate account owner which is normally done by the presentation of an enciphered PIN.,SE
+Product shall be able to process up to 5 million transactions per year.,SC
+Users will be able to access features without interruption.,A
+Manitoba's health information legislation requires a trustee who uses electronic means to request disclosure and to respond to requests for disclosure to implement procedures to prevent the interception of information by unauthorized persons.,SE
+"Within 5 seconds, the system will allow users to set alert for low inventory.",PE
+Product shall be available for use between the hours of 10am and 6pm.,A
+All customer inquiries shall be responded to within 1 hour of receipt.,A
+The product will be used in the office.,O
+The system will comply with the AML regulations.,L
+"The product shall provide a 'help' section, with tutorials and FAQs for users.",LF
+The application will process feedback in less than 4 seconds.,PE
+"A minimum of 90% of all software defects shall be resolved within 3 working days, with a maximum of 2 working days for priority defects.",MN
+The Uniform Commercial Code requires contract processing to comply.,L
+The product must be able to interface with various email servers. The product shall be able to send email.,O
+The product will complete the processing of customer transactions in no more than 3 seconds.,PE
+The service has to have a year-long availability rate of at least 96%.,A
+The system must be quickly accessible by both managers and chefs.,US
+The system needs to make sure that it complies with the Sarbanes-Oxley Act.,L
+"Adjusters and Collision Estimators shall be able to easily switch between different user roles, 95% of Adjusters and Collision Estimators shall find the product easy to use",US
+System shall be able to run on a variety of hardware configurations without any compatibility issues.,O
+NPAC SMS shall disconnect end users after a period of non-use.,SE
+The application will support multi-region deployment.,SC
+Customers will be able to register on the website for unlimited movie viewing in under 10 minutes.,PE
+The Family Educational Rights and Privacy Act is applicable to the system.,L
+Processing of payment transactions shall occur within 10 seconds.,PE
+The product will be able to manage up to 10 million daily active users.,SC
+The main pillar of reliability is the database which is continuously maintained and updated to reflect the most recent changes.,FT
+The On-line Exception Processing section outlines how an unsuccessful completion exception processing can be performed.,MN
+Defect reports shall be available to technical units within 2 hours of submission.,A
+The system will support high-contrast mode for users who have visual impairments.,US
+System shall be able to support up to 500 concurrent video streaming connections.,SC
+"All organisations hosting components of the EHRi must protect electronic media containing PHI or security critical system data, including user registration data, by one or more of the following means:",SE
+85% of users must be able to find essential functions within three clicks.,US
+The application should be able to integrate with machine learning models.,PO
+Must be able to display graphics properly in 90% of all HTML browsers tested,O
+The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.,A
+The product needs to be high availability with minimal downtime.,O
+The product should work well on legacy operating systems.,PO
+The product will be available as a one-server two-five server or five-or-more server license.,O
+The system can support up to 5000 simultaneous users against the local server at any one time and up to 10000 simultaneous users against the central database.,PE
+Web-based system shall support users with varying levels of technical expertise.,PO
+Each page will have the same format with action items in one location and navigation buttons in another.,LF
+The product will have an activity log to track performance issues.,FT
+Multi-platform support shall enable users to access the application on various hardware devices.,PO
+Users shall be able to easily report any issues or errors encountered while using the product.,US
+"7)Substitute Decision Makers May Require Identification Substitute decision makers may be required to make decision concerning treatment, as well to make decisions concerning the patient or person's consent directives.",SE
+The system will use animated icons to add interest to the interface.,LF
+When the Twitter-app is started the page of TU/e on Twitter is shown on the title screen.,FR
+The application needs to provide a user interface.,FT
+There should be different data storage back ups for the application.,PO
+"The product must be able to handle up to 300,000 concurrent calls.",SC
+Refresh display after a period of 45 seconds.,PE
+Average number of system updates per month shall be 5000.,SC
+The product needs to enable real-time monitoring.,MN
+Quality of Service mechanisms will be supported by the CPN and the CNG.,PE
+The data sync process can be completed in less than 2 minutes.,PE
+The system will allow seamless scaling.,SC
+The provision of emergency care and other situations in which adequate patient identification may not have been possible will inevitably create instances of multiple records for the same patient or person.,SE
+The product needs to have some sort of function for bulk data editing.,O
+"100,000 concurrent transactions are supported by the system.",SC
+The product will allow administrators to manage their users.,O
+The system will allow administrators to quickly change user roles.,PE
+Projected data shall be easily comparable across different devices.,US
+The initial load time for the product depends on the internet connection strength and the media that the product is run in.,PE
+"Discretionary access control occupies a middle ground between the two extremes of, on the one hand, allowing all users in a given role access to a huge pool of electronic health records; and on the other hand, requiring explicit consent for each user to access each record.",SE
+The system is expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.,SC
+The product shall be supported using the corporate support center.,O
+Users should be able to generate reports within 10 minutes.,MN
+Database management system shall be integrated with the product and allow for real-time updates.,O
+Task completion time can be reduced by 70% for new users if the application has a wizard.,US
+The platform has to be able to handle multi-cloud deployment strategies.,PO
+The system shall allow the user to modify the location preference set of an already submitted meeting response.,FR
+Other security risks of this type are the responsibility of the System Administrator.,SE
+2 million active users will be supported by the system.,SC
+The application needs to guarantee a 99% uptime throughout the year.,A
+The product shall be able to support multiple remote users,SC
+Recreation of system logs shall take no more than 1 minute for a single day's events.,PE
+Critical operations will not be affected by scheduled maintenance.,FT
+Defect reports shall be accessible to technical units at any time of the day.,A
+Changes must be documented within 24 hours.,MN
+The system needs to have a 99% uptime for all services.,A
+Website shall allow customers to add their own movie review for a selected movie.,FR
+"When a player is fouled, the product shall simulate the sound of a foul being committed.",LF
+The CNG shall support a mechanism allowing the support of call forwarding toward non-IMS capable CNDs.,FR
+Users will be able to download reports in less than 10 seconds.,PE
+The collapsible sidebar will be included in the product.,LF
+The software has to handle cross-origin resource sharing properly.,PO
+Portability of the product is crucial for its ability to adapt to changing environments.,PO
+Recreation of inventory report shall take no more than 45 minutes.,PE
+Compliance with the Americans with Disabilities Act is mandatory for all website features.,L
+End users must be able to export their data in a CSV format within 30 minutes of request.,MN
+"Within 3 seconds, the system will return product availability updates.",PE
+The application will process images in 8 seconds.,PE
+"In turn, controlling access is a minimum requirement of perimeter security.",SE
+The system shall display the shipping charges.,FR
+The system will operate on both operating systems.,PO
+The system has to balance the load on the server.,FT
+Both managers and chefs need to be able to access the system quickly.,US
+The application has to handle the generation of reports in less than 12 seconds.,PE
+The product will allow System Administrators to analyze transactions with ad-hoc reporting and key performance indicators.,US
+The interface shall have a 'Help' section that provides clear instructions on how to use the system.,LF
+The product needs to allow users to restore previous versions of data.,O
+The product will have failover mechanisms for critical services.,FT
+The DUAP Presentation Services shall require users to uniquely identify themselves.,SE
+Customer support team shall be available for phone calls between 9am and 5pm.,A
+The product shall comply with the Federal Trade Commission regulations regarding identity theft protection.,L
+Any user-initiated action shall be logged within 5 seconds.,PE
+Design patterns and coding best practices shall be continuously updated to reflect the latest industry trends and standards.,MN
+"when User clicks on link to About, application should respond with About page",FR
+The product needs to comply with privacy regulations.,O
+The product has to have access to customer support.,A
+The system will not impact performance.,SC
+The interface will highlight form fields that require user attention.,LF
+The system will operate with minimal disruption and 100% availability.,A
+The table side of the display shall be split into 2 regions: sequential and temporal.,FR
+"All organisations hosting components of the EHRi must - and organisations connecting to the EHRi should - ensure that PHI and other security critical data stored on removable media are: a) encrypted while the media are in transit to protect the data's confidentiality and integrity; and Admin Requirement Tech Requirement b) protected from theft, where appropriate, while the media are in transit to protect the data's availability.",SE
+The software will have a retry mechanism for errors.,FT
+The cardmember services representatives will be able to create a dispute case on the first encounter after completing the training course.,US
+The system must be available for use between the hours of 12AM and 6PM on all days of the year.,A
+hover effects will be used for interactive elements.,LF
+Users can view transaction details within 5 seconds.,PE
+Product shall be able to handle up to 2500 concurrent users within 3 years of its launch.,SC
+The system will give a mechanism for failed integrations.,FT
+The application will be able to accommodate 1 million daily active users.,SC
+Product shall create a backup of exception logs at regular intervals for storage and analysis purposes.,FT
+The system shall resolve the zipcode for the street address city and state if zipcode is unknown.,FR
+"Product shall be available for use at least 95% of the time, with a maximum downtime of 5 minutes per year.",A
+The software can support version control.,PO
+System shall provide a mechanism for users to manually recover from system failures or data corruption.,FT
+"Compatibility with various network protocols, including HTTP, FTP, and SSH, is necessary for secure and efficient data transfer.",O
+The activity feed will be included in the interface.,LF
+The product needs to function in a high-traffic environment.,O
+The product will display a welcome message with the current weather forecast when the user logs in.,LF
+75% of users should be able to rearrange their dashboard without assistance.,MN
+The software must meet the legal requirements of the act.,L
+The system needs to make sure the data is securely transmitted.,MN
+Real-time inventory checks can be performed in under 5 seconds.,PE
+NPAC SMS shall validate inputs for reasonable values.,SE
+The system provides storage of all databases on redundant computers with automatic switchover.,O
+The application needs to support compliance with theEFTA.,L
+The application should match the color of the Department of Homeland Security's database.,LF
+SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall support detection of message deletion.,SE
+The application needs to load and display high-resolution images in under 5 seconds.,PE
+The product needs to support horizontal scaling to add more nodes.,SC
+The website must be easy to navigate and have a site map.,US
+The system shall not leave any cookies on the customer's computer containing the user's password.,SE
+The system must provide the ability to associate any attestable content with the contents author.,SE
+The product will enable real-time collaboration among users.,MN
+"At the beginning of the football season, new System version releases will be released.",MN
+The product needs to provide a consistent look and feel across all modules to ensure a smooth transition.,US
+The application needs to process financial transactions in 1 second.,PE
+Product shall be expected to support a minimum of 1000 concurrent users.,SC
+The software can be deployed in the cloud.,PO
+Code reviews will be performed on a regular basis to ensure that all code meets the highest standards of quality and maintainability.,MN
+The ability to include data for regions outside the United States and be accessed by users outside of the United States is included in the system.,SC
+Detailed change logs must be maintained for all system modifications.,MN
+The product shall provide a feature to allow users to create and manage their own custom game scenarios.,LF
+"The product will serve 100,000 users with no degradation in speed or reliability.",SC
+The diagnostic operations on the CPN by an operator shall be performed in accordance with rules protecting the users' privacy.,SE
+The product complies with corporate color scheme.,LF
+Product shall provide a clear and intuitive user interface for users with disabilities.,US
+The system shall securely relate medications to be administered to the unique identity of the patient (see DC.1.1.1).,SE
+The system will help the user avoid making mistakes while scheduling classes and clinicals.,US
+Product support shall be available 24/7 through a dedicated support hotline.,O
+The product shall generate a CMA report in an acceptable time.,PE
+It needs to be able to change and update information.,O
+The product will support redundant power supplies.,FT
+The product must be able to handle large data sets efficiently.,O
+Interface with the Enterprise Resource Planning (ERP) system for inventory management.,O
+The product will be designed to avoid single points of failure.,FT
+Upon the USB being plugged in the system shall be able to be deployed and operational in less than 1 minute,FR
+The software will meet the requirements of the Financial Action Task Force.,L
+"When a player makes a save, the product shall simulate the sound of a goalie making a save.",LF
+"Regulatory requirements for environmental sustainability must be met in all aspects of the Disputes application, including waste management and recycling.",L
+The Health Information Technology for Economic and Clinical Health Act requires that the product be compliant.,L
+The interface shall have a notification system that alerts users of any changes or updates.,LF
+The application will work when the corporate network is active.,A
+The application has a protocol for handling unexpected service disruptions.,FT
+85% of respondents from each market will confirm the correct format for the product.,US
+"The RLCS shall incorporate a database to store, process, and retrieve all data necessary to secure the system from unauthorized use.",SE
+Product shall be able to recover from a database failure by using a secondary database or caching mechanism.,FT
+Continuous service availability is ensured by the application.,A
+Dynamic charts and graphs will be used to present data in a visually engaging manner.,LF
+The application will show a loading indicator for all background processes that last longer than 3 seconds.,PE
+"Changes to product functionality must be thoroughly tested and validated before being released to customers, with a minimum of 4 weeks for testing and validation.",MN
+The system will use subtle animations to draw user attention to notifications and alerts.,LF
+The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers,FR
+Users can work without an internet connection if the product supports offline function.,US
+Users of the application will be notified of any errors encountered.,FT
+The software will support visualization tools.,PO
+The interface will allow users to personalize their visual experience according to their preferences.,LF
+The system will run on both consumer and server-grade hardware.,PO
+The system will allow limited downtime for scheduled maintenance.,A
+Staff members will be able to complete tasks in a timely manner.,PE
+Flexible configuration options are required for the product to work.,MN
+The system will provide an alerting mechanism.,FT
+The application must support internationalization.,PO
+The system will make sure that all the tasks are completed in a single hour.,PE
+System shall let the administrator add/remove categories on the website in under 5 minutes.,PE
+The product shall be available 24 hours per day seven days per week.,A
+Consistency of replicated data is a must.,FT
+"Even for large datasets, the application must complete data sync processes in under 5 minutes.",PE
+seamless integration with payment gateways is what the product should offer.,PO
+Server shall be able to support a maximum of 1000 concurrent requests per second.,SC
+The website should follow established web interaction guidelines.,US
+Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.,FR
+"All business rules specified in the Disputes System must be in compliance with the Consumer Financial Protection Bureau (CFPB) regulations, including those related to credit card disputes processing.",L
+"The application must allow users to pick their preferred language easily, with 85% of users satisfied with the language choices.",US
+6) The system shall provide the ability to uniquely identify a patient and tie the record to a single patient.,SE
+The system shall validate the amount is available in the user’s account before releasing funds to the user.,FR
+The product needs to support user verification.,O
+The application needs to be compatible with smart homes.,PO
+"All data stored within the Disputes application must be secure and protected from unauthorized access, as required by the Health Insurance Portability and Accountability Act (HIPAA).",L
+The system can only be used between 7 and 7.,A
+The product should work in both high-bandwidth and low-bandwidth environments.,PO
+"Within 2 seconds of the triggering event, the application must handle real-time notifications.",PE
+The to-location can be searched by the address of a building.,FR
+Product shall be designed to adapt to changing network conditions and optimize performance accordingly.,FT
+The card should use a unique diversified secret key personalized into the card to generate and authenticate transaction signatures,SE
+"Whenever the main server is online, the application will be operational.",A
+A portable version of the system should be available for use in a variety of network environments.,PO
+The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.,MN
+"85% of users found the voice interface responsive and reliable, and the application must support voice commands for key functions.",US
+If projected the data must be understandable. On a 10x10 projection screen 90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100,US
+The actions that modify an existing case must be recorded.,L
+During a purchase transaction the CEP card must ensure that it is dealing with an authentic POS device and it must generate a signature to allow the card issuer to verify the integrity of the transaction,SE
+Product shall be capable of handling a minimum of 200 000 customer records.,SC
+automated error detection will be provided by the system.,MN
+The Disputes application must provide users with clear and concise instructions on how to submit a dispute case.,L
+The CNG will be able to classify traffic that is simply bridged by the CPN.,PE
+The system will use hover effects.,LF
+Users shall be able to quickly recover from a system failure by automatically logging back in.,US
+"In the event of a failure, user preferences will be retained.",FT
+"20,000 concurrent logins are supported by the application.",SC
+W3C standards will be met by the website.,L
+The interface will use dialogs for user interactions.,LF
+"In case of managed services, the QoS rules can be changed by a remote management system.",PE
+When the hit results in sinking a ship the product shall indicate the type of ship sunk on the defensive grid of the defensive player.,FR
+The product is required to meet the requirements of the Global Investment Performance Standards.,L
+-developing and implementing security awareness training programs (see Security Requirement 16);,SE
+the user can rate and comment about the users whom he traded with.,FR
+Confirmed registration Given the restaurant owner has applied for verification And has not received a confirmation e-mail after registration When the restaurant owner receives a confirmation e-mail Then the restaurant owner should be able to log in,FR
+Flea Market system will use the implementation language to interface with the web server and software.,O
+"In order to monitor all past access to the system, all attempts to access the system should be logged.",SE
+"-architecting, implementing and monitoring an enterprise wide information security program ensuring the confidentiality, integrity, and availability of information and the integrity and availability of systems;",SE
+Integration with existing enterprise resource planning (ERP) systems shall be supported for seamless data exchange.,O
+The OPEN shall be responsible to maintain security and administration of the card and its content.,SE
+Must support Internet Explorer 8 and above on Windows 10 operating systems,O
+We must be able to interface with the following browsers: IE 5.X 6.0 Netscape 6.x 7.x 8.x and Firefox 1.0.,O
+Malicious data input shall not cause the product to crash or become unresponsive.,FT
+The product needs to be available with minimal downtime.,O
+A dedicated team will be assigned to monitor and address any security vulnerabilities identified by automated scanning tools.,MN
+The search will return results in under 6 seconds.,PE
+Malicious data shall not cause the website to become unresponsive for more than 5 minutes.,FT
+Portability of the application should be ensured on multiple virtualization platforms.,PO
+In case of multicast streams the CNG should support proxy functionalities to optimize the management of information related to signalling.,FR
+"The system shall will employ a one-way hash function as an aid to maintaining the integrity of the data and software in the field, The hash value returned by the function shall will be at least 128 bits in length, The MD5 algorithm is acceptable for this purpose.",SE
+The EU-US Privacy Shield Framework requires all data exports to comply.,L
+The ADA requires that the software conform to accessibility standards.,L
+"The product shall provide a 'what's new' section, with updates on new features and bug fixes.",LF
+When the hit results in sinking a ship the product shall mark the ship as sunk on the offensive grid of the offensive player.,FR
+Support tickets have to be processed on a daily basis.,A
+Product shall be able to cater to 20 simultaneous users from 9am to 5pm during peak business hours.,SC
+The system needs to achieve a minimum of 99.6% uptime annually.,A
+A dashboard for monitoring key performance indicators is included in the product.,O
+80% of the Collision Estimators agree that their productivity will increase after using the product.,US
+"When a ship is being repaired, the product shall simulate the sound of a ship being refitted.",LF
+The product will maintain operational integrity when switched between different server.,FT
+If the CND does not contain an ISIM/UICC it shall support the HTTP Digest authentication or the NBA,FR
+The system will be compatible with the Linux distributions.,PO
+Product shall be able to recover from system crashes and resume normal operation within 30 seconds.,FT
+"Customer portal shall be available for use between 7am and 10pm, Monday to Friday.",A
+Regular audits must be conducted to ensure that all business rules specified in the Disputes System comply with the guidelines of Regulation Z.,L
+Recreation of user profile data shall take no more than 20 minutes.,PE
+The application needs to support different languages.,PO
+NPAC SMS shall only allow the NPAC Security Administrator to revoke users.,SE
+"The application has to process 100,000 data points per minute.",SC
+The product has to allow for configuration changes.,MN
+"Anonimization & aggregation, so that route information may be shared safely without disclosing personal information.",SE
+A survey will show that 95 percent of users are at ease using gift cards.,US
+"Out of 5000 accesses to the system, the system is available 4999 times.",A
+The platform needs to be able to handle multi-cloud deployment strategies.,PO
+Product shall be able to recover from corrupted database files.,FT
+Middleware team shall handle product installations and upgrades within specified time frames.,O
+The search results will be returned no later than 30 seconds after the user enters their search criteria.,PE
+The product will have a fixed name.,LF
+A minimum of 95% of users shall be able to access the product's features without any compatibility issues.,SC
+"98% of all leads will be evaluated in 25 seconds or less, and no leads will be evaluated for more than 25 seconds.",PE
+The application will include interactive tutorials that will guide users through key features.,LF
+The administrator can change the fonts used in the user interfaces of the sub-apps and main-app (this does not include the external resources).,O
+The product will allow users to personalize their experience.,LF
+All critical components must be redundant.,FT
+The system has to report anomalies.,FT
+The application has to respond under 2 seconds for all requests.,PE
+The application needs to be able to access vital information.,A
+Critical processes should be prioritized to ensure minimal impact during failures.,FT
+Users shall be able to easily track their progress and history.,US
+The system has to comply with the Children's Television Act.,L
+"Within 2 years of the initial launch, 10 000 concurrent users will be able to use the product.",SC
+The home page will load within 2 seconds on average.,PE
+The Quality of Service mechanisms will be supported by the CPN and the CNG.,PE
+"A centralized knowledge base will be maintained to document product development, deployment, and maintenance processes.",MN
+The product will meet the requirements of the Consumer Financial Protection Bureau.,L
+Social media sharing options for user-generated content will be supported by the product.,O
+The system will accommodate large data items.,FT
+"During failures, the product will ensure that high priority services remain functional.",FT
+The online registration system is “self-service style” system that shall initially address the student registration needs.,FR
+"Collision Estimators shall be able to increase their accuracy, 80% of Collision Estimators shall agree their accuracy has increased within 1 month of using the product",US
+Product shall be available for use 365 days a year without any scheduled maintenance.,A
+The product will process online reservations in less than 5 seconds.,PE
+The product can be accessed via a secure connection.,O
+Soft pastel colors will be used to create a calming and pleasant user experience.,LF
+Average number of failed transactions per day shall be less than 500.,SC
+The Uniform Commercial Code (UCC) requires all contract processing to comply.,L
+A user-friendly interface shall be designed to accommodate users with disabilities.,US
+The application has to guarantee a 99.2% uptime.,A
+The streaming server will have anti-virus software to prevent infection of malicious viruses.,SE
+Product shall provide clear and concise instructions for all user actions.,US
+"During scheduled maintenance, the system will allow limited downtime.",A
+All buttons and icons will have tooltips.,LF
+The system shall display the customer support contact numbers on the screen.,FR
+The voter should be able to get a response in 2 to 3 seconds.,PE
+The system needs to be portable.,PO
+The system must provide the ability for attestation of content by the contents author.,SE
+Users will be able to automate routine tasks with the extensive support provided by the system.,O
+"Within 3 seconds of a user request, the product will load new content.",PE
+The Digital Millennium Copyright Act requires that all intellectual property data be handled.,L
+"NPAC SMS shall not support any mode of entry into NPAC SMS for maintenance, support, or operations that would violate or bypass any security procedures.",SE
+The implementation of specific service logics should be possible with the use of a programmable open API.,MN
+80% of users will be able to find desired items in under 5 minutes.,US
+The system needs to give clear and concise error codes.,MN
+The product shall retain the customer's buying preferences and information.,US
+"Under load conditions, the application must be reliable for up to 10,000 transactions per second.",SC
+"Out of 2000 accesses to the WCS system, the system is available 1999 times.",A
+"85% of users feel confident in their interactions with the application, which will provide real-time feedback and confirmations for user actions.",US
+Recreation of employee data for the period of previous 6 months shall take no more than 45 minutes.,PE
+"Every minute, the application will save user data.",FT
+"A logical and consistent layout for all screens will make it easy for users to navigate and find the information they need, with 85% of users reporting satisfaction with the layout.",US
+Any end-user may use this system on any device with a compatible operating system and sufficient resources.,PO
+The card issuer may have to maintain a card database.,MN
+Product shall be designed to handle high traffic without significant performance degradation.,FT
+Because one cannot predict the sensitivity of a given element of PHI through all its uses and phases of its life cycle that all PHI should be subject to careful protection at all times.,SE
+System Reliability GIST: The reliability of the system. SCALE: The reliability that the system gives the right result on a search. METER: Measurements obtained from 1000 searches during testing. MUST: More than 98% of the searches. PLAN: More than 99% of the searches. WISH: 100% of the searches.,SE
+"When a player is suspended, the product shall display a warning message with the duration of the suspension.",LF
+Users will be able to switch between primary and backup services.,FT
+"Web application shall be accessible at least 95% of the time, with no more than 5 minutes of downtime per month.",A
+85% of users should be able to sync events with external calendars easily.,MN
+"Within 5 seconds, the application will provide real-time data analytics.",PE
+The interface will allow users to switch between different languages easily.,LF
+Product shall be able to handle up to 2500 concurrent users during peak holiday seasons.,SC
+"The application will support drag-and-drop for file uploads and reordering items, with 90 percent of users finding the feature intuitive.",US
+2)maintain the security of organisational information processing facilities and information assets accessed by third parties; and,SE
+Users must follow the Computer Fraud and Abuse Act.,L
+"Within 2 days, the product will be installed in any operating environment.",O
+Detailed logging should be provided in the application.,PO
+The FTC Act requires the system to meet certain requirements.,L
+NPAC SMS shall provide post-collection audit analysis tools that can produce exception reports on items relating to system intrusions.,SE
+Nurses need to ensure the patient's privacy and security of EHR data is protected.,SE
+This is of greatest concern when data are being changed or updated.,SE
+Detailed logging should be provided for audit and compliance.,PO
+The system shall notify the realtor when a seller or buyer responds to an appointment request,FR
+The software must meet the requirements of the FFIEC.,L
+"All product documentation shall be available in multiple formats, including PDF and HTML.",O
+The application will make sure that the changes are tracked.,MN
+Real-time updates to dashboard metrics will be provided by the system every 10 seconds.,PE
+Hardware components of the client/customer will have an effect on the performance.,PE
+"Before and after backups, the software needs to verify data integrity.",FT
+"User Create Account Security GIST: The security of creating account for users of the system. SCALE: If a user wants to create an account and the desired user name is occupied, the user should be asked to choose a different user name. METER: Measurements obtained on 1000 hours of usage during testing. MUST: 100% of the time.",SE
+The product will provide a logical way to use it.,US
+The system will support user-defined maintenance schedules.,MN
+Portability to various Linux distributions shall be ensured.,PO
+Product shall cater to 20 simultaneous users from 9am to 5pm during peak hours.,SC
+The CPN (CND and/or CNG) shall support a method to access a Self Configuration Server.,FR
+"Product shall be able to process at least 750,000 transactions per quarter.",SC
+The software needs to run efficiently on both high-end and low-power devices.,PO
+seamless integration of additional resources is what the product must allow for.,SC
+The product must comply with global sanctions.,L
+End-user may access the system from any location with a mobile network.,PO
+The product will provide a dashboard for real-time monitoring.,FT
+"Product shall be available 99% of the time, excluding data center maintenance.",A
+The application can be installed on legacy hardware.,PO
+All organisations hosting components of the EHRi must protect equipment supporting the EHRi from power failures and other disruptions caused by failures in supporting utilities.,SE
+"Consequently, those organisations wishing to disclose PHI to another jurisdiction must do so in a manner that respects the legal requirements for consent in their own jurisdiction (i.e. the jurisdiction of the disclosing organisation).",SE
+The UK Investigatory Powers Act must be followed by customer data handling.,L
+"Rationale: The Alberta Health Information Protection Act, Manitoba Personal Health Information Protection Act and Ontario Personal Health Information Act all require that custodians of PHI only collect, use or disclose as much PHI as is reasonably necessary to carry out the identified purposes.",SE
+Unloads are permitted only to an account controlled by the card issuer and are performed only at a load device under the control of the card issuer.,SE
+The product needs to support operations in a serverless environment.,PO
+Recreation of inventory level reports shall take no more than 15 minutes.,PE
+The product needs to be able to alert the system about performance issues.,O
+"The product must allow users to personalize their experience, with 90 percent of users satisfied with the personalization options.",US
+A web-based interface shall be available to manage and monitor system performance in real-time.,SC
+The system needs to make sure that all the updates are tested before they are deployed.,O
+The integrity of STEWARDS data will be critical to its success as a product.,SE
+The application should work well in virtual environments.,PO
+User-friendly error handling and clear instructions on how to resolve common issues are what the product must have.,US
+The ISO has standards that the system must follow.,L
+The product will be designed to avoid failures.,FT
+The system will be able to manage multiple instances across regions.,SC
+Server shall be able to support a maximum of 2000 simultaneous users.,SC
+The product will follow security protocols specified by the corporate IT department.,O
+NPAC SMS shall ensure that NPAC audit capability cannot be disabled.,SE
+Support for legacy hardware shall be maintained for a period of at least 5 years from the product's release date.,O
+There will be no degradation of performance in the application if 350 concurrent users are supported.,PE
+NPAC SMS shall provide post-collection audit analysis tools that can produce summary reports on data items relating to system intrusions.,SE
+End users shall be able to easily integrate new maps and data sources into the product without requiring extensive technical support.,MN
+The application should be able to integrate with cloud-based identity providers.,PO
+"The application has to follow the guidelines of the Unfair, Deceptive, and Abusive Acts or Practices.",L
+Up to 1 million concurrent user interactions can be managed by the application.,SC
+Build Ajax Response to update home page with a link to nearby site based on user location,FR
+"SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall allow only authorized parties (i.e., carriers serving a given customer) to cause changes in the NPAC SMS database.",SE
+Logout must be automatic after 1 hour of inactivity.,SE
+"Changes to calculated results such as Sufficiency Rating or NBI Appraisal Ratings will be prohibited except for secured, privileged users.",SE
+"The product can accommodate 500,000 concurrent users.",SC
+"During the budgeting period, the RFS system should be available 24/7.",A
+The source code will adhere to an agreed upon set of coding standards.,MN
+Product shall provide a mechanism for users to recover from a system crash.,FT
+Students added to a cohort shall be eligible for the cohort's Program of Study.,FR
+The product will work with the server software on any operating system.,O
+80% of administrators should be able to manage users in batches within 10 minutes.,MN
+The interface will have a trail for easy navigation.,LF
+The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.,FT
+Users will be able to access the WCS through the Internet on an IBM computer running a Windows 2000 or above operating system.,O
+98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls,O
+Product shall be able to support up to 5000 remote users simultaneously.,SC
+The maximum response time is 15 seconds when you purchase a streaming movie or pre-paid card via credit card.,PE
+Continuous service availability for remote users will be ensured by the application.,A
+The drag-and-drop feature must be supported by the application in order for it to be useful.,US
+Interface with the Enterprise Resource Planning (ERP) system to retrieve business data.,O
+"When a game is in progress, the product shall display a countdown timer to the end of the game.",LF
+Product shall be able to handle a minimum of 50 000 concurrent users.,SC
+A minimum of 90% of HTML browsers shall display product output correctly.,O
+seamless migration from legacy systems is what the product must allow.,O
+The application has to support multiple levels.,FT
+Product shall be able to process a minimum of 1.5 million transactions per year.,SC
+"During peak usage, the product needs to support continuous operation.",A
+The product needs to support the most recent version of the browser.,O
+The system can be deployed on various platforms.,PO
+Claims processing shall be conducted in accordance with the Equal Credit Opportunity Act.,L
+The product needs to be compatible with third-party tools.,MN
+The product will allow users to upgrade without losing their existing data or features.,O
+Product shall interface with a database management system to retrieve and update user data at least once per day.,O
+Product shall have a mechanism to automatically detect and resolve system errors.,FT
+The product will allow for user-defined data retention policies.,FT
+Each type of ship will be displayed in a grid using an image of the specific type of ship.,LF
+The system should work on Linux and ChromeOS.,PO
+NPAC SMS shall support the temporary disabling of userids.,SE
+The system must be down for 30 minutes every month.,A
+The interface will make sure that error messages are displayed clearly.,LF
+Live chat will be available from 9am to 9pm every day.,A
+Soft pastels will be used to create a calm and pleasant user experience.,LF
+"If the primary server fails, the system must switch to a backup server.",FT
+Users will be able to create compelling visual reports if the application is compatible with various data visualization tools.,O
+The application should have robust documentation.,PO
+Collaboration tools shall be available to facilitate communication between users and stakeholders.,US
+"Within 2 seconds, the system will return customer support statuses.",PE
+"Product shall be designed to be highly modular, allowing for easy integration and replacement of individual components.",MN
+NPAC SMS NMS shall use SNMP to monitor the system resources.,SE
+Access will be provided from 8am to 8pm on weekdays.,A
+"Users shall be able to reach the ""add"" ""drop"" and ""trade player"" pages with one click from the team owner's page.",US
+Users shall be required to log into the system for all operations except the operations on the login page.,SE
+Product shall be able to support 5000 nursing students and their classes for the next 10 years.,SC
+The user registration process can be completed in a few minutes.,PE
+The system will allow the user to scroll the map.,US
+The to-location can be selected on the map.,FR
+"Product shall be designed to be compatible with multiple operating systems, including Windows, Linux, and macOS.",O
+Maintaining the product is a must.,MN
+Credit card transactions must be processed in accordance with the Payment Card Industry Data Security Standard (PCI-DSS).,L
+All maintenance releases and updates shall be thoroughly tested and validated before being released to customers.,MN
+Real-time monitoring of performance will be supported by the system.,MN
+The centralized notification center will make it easy for most users to stay informed.,US
+Tokens shall be verified by the appropriate Security Domain.,SE
+The application will maintain a 97% uptime.,A
+Web-based applications should be optimized for various screen resolutions and device sizes.,PO
+"The product will give clear and concise documentation that covers all aspects of the application, with 90 percent of users finding the documentation helpful and easy to follow.",US
+The Corporate Community Grants organization has defined appropriate terminology for the WCS system.,US
+The product must be able to communicate with the user.,O
+The product will provide an interface for third-party integrations.,MN
+The software has to meet FCC standards.,L
+The maximum number of movies that can be streamed is 700; new server can be added to support more movies.,SC
+The website will be attractive to everyone.,LF
+"Up to 500,000 real-time notifications per hour will be handled by the product.",SC
+Dependent databases and/or file systems shall be able to recover from data corruption without requiring manual intervention.,FT
+Ability for the data center admin to recover by mailbox.,SE
+The application has to complete each step in under 7 seconds.,PE
+The software supports visualization tools.,PO
+Portability to cloud-based services is necessary for scalability.,PO
+Product shall provide users with a clear indication of any data that is missing or corrupted.,FT
+The system will use the mail protocol.,O
+The interface will allow users to personalize their visual experience according to their requirements.,LF
+Offline transaction processing can be supported by the application.,FT
+The website needs to maintain a minimum of 98.5% for user accessibility.,A
+A maximum of 1 000 simultaneous users will be supported by the server.,SC
+All databases are stored on redundant computers with an automatic switchover.,O
+"Within 8 seconds, the preferred repair facility is returned.",PE
+"During operational hours, the application will guarantee 99.7%.",A
+The system needs to be compatible with technologies such as Hyper-V.,O
+The Financial Instruments and Exchange Act requires the system to be in compliance.,L
+"Mobile application - Free-text search DESC: A user should be able to conduct a search by providing either restaurant name, restaurant description, restaurant address, restaurant type or restaurant menu in the free-text search field. The result is displayed in a map view by default.",FR
+"The application will allow users to work on multiple items at the same time, with 95 percent of users saying they like the ability to work on multiple items simultaneously.",US
+The system will show users the status of their requests at all times.,US
+The application needs to support multiple levels.,FT
+Product shall achieve a 99.9% uptime as long as IBM internal intranet W3 is accessible,A
+Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start. Revenue and expense formulae will be updated within one week of their receipt after which 2 weeks will be allotted to testing of the budget calculations to be conducted jointly by the project development team and PCG Finance.,MN
+Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,FR
+The software will allow for the start of procedures.,FT
+The application has to support critical updates.,FT
+"During network interruptions, the application needs to ensure data availability.",FT
+The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.,FR
+Third-party payment gateways must be supported by the product.,O
+The leads washing functionality will validate all leads received by the web service for valid data,FR
+The product needs to allow easy data visualization.,MN
+"98% of new users feel comfortable with the system within the first day of use, and the system must offer a comprehensive experience.",US
+The product will always be available for all transactions.,A
+"During upgrade change or new resource addition, the product will continue to operate.",MN
+The application will work when the main server is online.,A
+IzognMovies shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.,L
+"It is expected that the EHRi and POS systems connected to the EHRi will work together to accomplish the task of authenticating users who access the EHRi; i.e., users do not need to be authenticated twice.",SE
+Recreation of failed transaction records shall take no more than 45 seconds.,PE
+The system will keep separate environments for testing and production.,FT
+The application needs to scale quickly to process 500 concurrent data streams.,SC
+The system shall be capable of supporting Windows Authentication mechanism for database access.,SE
+A notification shall be sent to administrators when the inventory quantity adjustment fails for more than 5 minutes.,PE
+The system will give historical data in under 10 seconds.,PE
+If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,FR
+Current location is shown in the map view.,FR
+"Compliance with the Payment Card Industry Data Security Standard (PCI-DSS) shall be ensured in all aspects of the Disputes application, including data encryption and access controls.",L
+The application needs to support multi-language interface so that users can easily pick their preferred language.,US
+The application will allow users to choose their preferred language from a comprehensive list.,LF
+The users are required to input the data from cell phone keypad,US
+The customer will be able to easily integrate new maps with the product with little to no support from the product support staff.,MN
+"Ensure seamless integration with web-based collaboration tools, such as Slack or Microsoft Teams.",O
+There will be a maintenance mode to prevent downtime.,MN
+Dynamic resource allocation is needed to maintain optimal performance.,SC
+Users will be able to view transactions in less than 3 seconds.,PE
+The software needs to run on Windows 10 and newer versions.,PO
+"The system will incorporate gesture-based navigation for touch-enabled devices, with 95 percent of users finding the gestures intuitive and easy to use.",US
+Product updates shall be clearly indicated to users.,US
+"NPAC SMS shall ensure that the user-identification associated with any NPAC SMS request or activity is maintained, so that the initiating user can be traceable.",SE
+"When changes occur in the underlying data, the application must support instantaneous updates to the user interface.",PE
+Confirmation messages will be displayed to users within 4 seconds after the user submits information to the system.,PE
+The website design needs to be concise.,LF
+Changes must be reflected in the user manual.,MN
+"Integration with existing project management tools, such as Asana and Trello, will be necessary to streamline workflows and enhance collaboration.",O
+All user sessions shall be timed out after 30 minutes of inactivity.,PE
+Users will be able to define custom alert based on conditions.,O
+The system should provide the ability to record system maintenance events.,SE
+The dashboard will allow users to prioritize and organize information according to their needs.,US
+The system could provide the ability to support WfMC standards for application integration.,SE
+Users should be able to complete software updates without interruption.,MN
+Compliance with the Federal Trade Commission (FTC) regulations regarding unfair and deceptive business practices is mandatory.,L
+The application needs to be installed on both environments.,PO
+The software should be compatible with Windows Embedded systems.,PO
+System crashes shall be logged and reported to the company's support team.,FT
+Integration with existing customer relationship management (CRM) systems will be necessary to leverage existing data and streamline processes.,O
+The product will give an interface for third-party integrations.,MN
+Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.,PE
+The product needs to be compatible with various input methods.,PO
+Users should be able to retrieve previous versions within 2 minutes.,MN
+The Magnuson-Moss Warranty Act applies to the product.,L
+The product will allow data to be exported.,O
+The application needs to be able to support high data throughput.,SC
+Easy maintenance of the Flea Market can be accomplished with detailed documentation of the code.,MN
+Product shall be able to cater to 20 simultaneous users from 9am to 5pm.,SC
+The system shall allow user to select the support type he wants.,FR
+The product will meet international standards.,L
+The product will guarantee a 99.5% uptime for the day.,A
+Data integrity must be verified before and after backups.,FT
+The application needs to support real-time data sync.,FT
+The product has to log all system errors and give detailed error reports.,FT
+"As logs will themselves contain confidential information, they must be made both secure and tamper-proof.",SE
+The guidelines in the RCRA apply to all environmental data.,L
+The product will ensure that user registration processes are completed within a minute.,PE
+All maintenance tasks must be recorded.,MN
+The support tickets have to be processed on a constant basis.,A
+The system's back-end servers shall only be accessible to authenticated administrators.,SE
+Background themes that reflect seasonal changes will be included in the application.,LF
+It must store the most recent copy of information in its application data folder.,FR
+"The product will handle up to 20,000 concurrent user logins.",SC
+Real-time processing of streaming data is something the application must handle.,PE
+Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection.,SE
+"During peak hours, the system will be fully operational from 9am to 10pm.",A
+Each PSAM must maintain a transaction count The unique PSAM ID and the transaction count are used during a conversation with a CEP card. The transaction count must not be reset during the life of the PSAM,SE
+The format of the product will be based on the locale of the user.,US
+"NPAC SMS shall ensure that for software resources controlled by NPAC SMS, it must be possible to grant access rights to a single user or a group of users.",SE
+The results displayed in the map view should be user friendly and easy to understand. Selecting a pin on the map should only take one click.,US
+The MTBF should not be less than 2 months.,A
+The product needs to meet the standards of the European WEEE Directive.,L
+98% of users are able to resume tasks without losing data if the application saves user progress in forms.,US
+NPAC SMS shall provide post-collection audit analysis tools that can produce summary reports on users relating to system intrusions.,SE
+The product needs to be accessible via secure networks.,PO
+The software needs to run on devices powered by renewable energy.,PO
+All dispute resolution processes shall be conducted in accordance with the Federal Trade Commission (FTC) guidelines.,L
+85% of users will find the product helpful.,US
+Interface with external services shall be implemented using SOAP web services.,O
+"Such verification of identity documents helps to ensure that effective prosecution or litigation can be brought against individuals who can be shown, as a result of analyzing audit logs, to have abused their access privileges.",SE
+The product needs to allow for scaling up in response to user demand.,SC
+The product will have a premade toolbar with user-defined shortcut keys.,LF
+"The administrator can link a POI to a certain building, floor and room.",FR
+The product needs to meet the legal requirements.,L
+A change management process shall be implemented to ensure that all changes to the product are properly documented and reviewed before implementation.,MN
+"Every 30 minutes, the product will provide system maintenance updates.",PE
+The interface will use a modular design framework that will allow for consistent styling and easy updates across all components.,LF
+The system needs to support single sign-on in order to improve security.,O
+"As long as IBM's internal intranet W3 is accessible, the WCS system will be available.",A
+"Within 6 seconds, the application will generate invoices.",PE
+The product shall comply with the Equal Credit Opportunity Act regulations regarding credit reporting.,L
+The system will have a set of tools for managing user accounts.,O
+Both Mac OS and Linux will be used for the system.,PO
+The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.,FR
+Rationale: This requirement greatly facilitates the determination of suspicious or wrongful use of access privileges with regard to patients who are high profile or whose confidentiality is otherwise especially at risk.,SE
+The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.,PE
+An easy-to-use installation wizard is required for the product.,O
+System shall be available for use 24 hours a day 365 days a year.,A
+The system will maintain separate environments for testing and production.,FT
+The application needs to be compatible with previous versions.,PO
+The PSAM in the POS device generates a merchant acquirer S5 MAC for the transaction and a new S4 MAC for the batch total count and amount and logs the transaction. The amount of the canceled last purchase transaction is subtracted from the header amount. The transaction is kept in a data store associated with the POS device until the merchant acquirer collects it,SE
+Product shall be able to interface with any web-based mapping service such as Google Maps or Bing Maps.,O
+The system will make sure that all critical functions are available.,A
+"In this case, the user can rate and comment about the users whom he traded with.",FR
+"The system needs to ensure that all interactive elements are accessible via keyboard shortcuts, with 90 percent of power users reporting increased efficiency.",US
+The system will allow users to change their plan in under 2 minutes.,PE
+"On weekdays, the platform must be open from 10am to 7pm.",A
+"For essential operations, the application will maintain a 100% uptime.",A
+"In case of network failure, the system must automatically route traffic.",FT
+The product will comply with the corporate color scheme.,LF
+"During partial outages, the system will be in reducedFunctionality mode.",FT
+The product will give access to support services at any time.,A
+"The system will facilitate real-time collaboration for up to 1,000 users at the same time.",SC
+Scheduling automated backups will be included in the product.,O
+Users must be able to easily track their progress and achievements within the product.,US
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,US
+The system can support both voice and text input.,PO
+The product will integrate with third-party tools.,O
+A minimum of 80% of users shall report that they are able to find help when needed.,US
+Real-time data is supported by the product.,A
+Users will be able to report issues in 6 seconds.,PE
+The software will provide mechanisms for failed updates.,FT
+Portability to various embedded systems shall be ensured.,PO
+The system can handle up to 2 million transactions a day.,SC
+Share one or more MAC keys with connecting processors create a MAC on each transmission sent to another processor and verify the MAC on each transmission received from another processor,SE
+The menus of the system should be easy to navigate by the users.,US
+The system is going to have a professional appearance.,LF
+Data stored in dependent databases/filesystems shall be recoverable in case of a failure.,FT
+Tools will be offered for performance maximization.,MN
+"The product will handle 25,000 concurrent data streams.",SC
+The system needs to have a 100% uptime for all services.,A
+The merchant acquirer validates the PSAM's MACs prior to accepting the POS transactions for payment. In addition selected data elements are validated to ensure correct processing by the POS device and its PSAM,SE
+Admins shall be able to generate and verify unique PINs within 20 seconds.,PE
+The system has to comply with the FCRA.,L
+Users shall be able to customize their user interface to suit their preferences.,US
+The UK Investigatory Powers Act must be followed when handling customer data.,L
+The system will use consistent scrawl throughout the application to make it easier to read.,LF
+"NPAC SMS NMS shall provide a real-time mechanism to monitor the occurrence or accumulation of security auditable events. Where possible, NPAC SMS shall determine and execute the least disruptive action to terminate the event.",SE
+The application should support deployment in hybrid cloud architectures.,PO
+The system needs to support live events.,SC
+Recreation of historical customer purchase records for the period of previous 12 months shall take no more than 45 minutes.,PE
+"In this case, user can buy credits from the system. He/she can use credit card or his/her PayPal account.",FR
+The system will operate on browsers that support the two languages.,PO
+"On average, the application will load the home page in 2 seconds.",PE
+All user interactions with the Disputes application must be documented and stored in a secure repository.,L
+The product must be approved by the Architecture group before it can be released.,LF
+Software should be able to run on Linux and macOS operating systems.,PO
+The product has to comply with the Clean Air Act.,L
+"When a shot is retaken, the product shall simulate the sound of a ball being bounced on the court.",LF
+The product needs to allow administrators to generate reports.,O
+"With 100,000 concurrent streams, the application will ensure high performance.",SC
+The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts,FR
+View the personal details of the customer.,FR
+On reception at the CNG of a message to access configuration information for update and detection of authorization failure the CNG shall reject the request and manage the failure in accordance with the CPN authorization management handling policy.,SE
+Application shall have a maximum of 15 minutes of downtime per month.,A
+Fault avoidance mechanisms shall be implemented to prevent data loss due to system crashes.,FT
+Projected data must be easily comparable across different time frames.,US
+Both native and web-based environments will be supported by the system.,PO
+The system should warn ECA users about the malfunction of the system.,FT
+The product has to handle concurrent failures without disrupting service.,FT
+The product will display a success message when the user completes the form.,LF
+NPAC SMS shall provide post-collection audit analysis tools that can produce detailed reports on data items relating to system intrusions.,SE
+"During scaling, the application will make sure that service is not interrupted.",SC
+"if the item the user wants is available for exchange, the user can request the exchange of items that he/she has with the item he/she wants.",FR
+A built-in version history feature is required for the product.,MN
+Adjusters and Collision Estimators shall be able to find the product easily 99% of the time.,US
+"Within 1 working day, the product will be installed in the environment.",O
+The system will support up to 500 concurrent video streams.,SC
+Diagnostic information will be provided by the software.,FT
+"Unless noted by an exception, any interface between a user and the automated system will have a maximum response time of 5 seconds.",PE
+Compliance with the International Accounting Standards is supported by the application.,L
+The service needs to have an availability rate of at least 95 percent for a year.,A
+Each high-definition video stream must start within 2 seconds if the application is to handle seamless playback.,PE
+Compliance with the Federal Trade Commission (FTC) guidelines for consumer protection is mandatory for all business operations.,L
+Continuous integration and deployment is what the software must support.,MN
+The system will support active-active and active-passive redundancy setups.,FT
+We must be able to use any browser.,O
+"In case of managed services, a remote management system will be used to set the QoS rules.",PE
+"The application will have animated loading indicators that will inform users of ongoing processes, minimize perceived wait times and enhance the user experience.",LF
+The system needs to make sure links are highlighted.,LF
+"When a goal is scored, the product shall display a animation of a goal being scored.",LF
+The application needs to provide access to essential services.,A
+A waiter shall only be able to log into one tablet at any given instance of time.,SE
+"Up to 5 million data points will be supported by the product, providing timely insights for users.",SC
+A collapsible sidebar is included in the product.,LF
+The application will meet the ILO standards.,L
+Comprehensive documentation is required for developers.,MN
+The product needs to make sure that all updates are tested.,MN
+The product shall be intuitive and self-explanatory. Nine out ten users shall be able to successfully complete a game with no training.,US
+Users will have access to the service all year long.,A
+"If the application unexpectedly closes, the product will allow users to restore their session state.",FT
+The product needs to provide an application programming interface for integration with third-party applications.,O
+New features must be added with minimal disruption.,MN
+A user shall be able to recover their session after a network failure.,FT
+The guidelines set by the ISO/IEC 27001 standard are what all security protocols must adhere to.,L
+The product will improve the efficiency of Estimators.,US
+"After a month of using the system, an anonymous survey will show that 95 percent of customers are comfortable using and buying pre-paid cards.",US
+"After logging into the website, users should be able to view their movies in under 2 minutes.",US
+A maximum of 2 seconds will be the maximum response time for all user interface actions.,PE
+The application needs to support compliance withOSHA guidelines.,L
+"When forwarding packets from the customer network to the WAN interface, the CNG will manage a number of queues that correspond to the different priorities detected in the classification phase for each packet processed.",PE
+24 hours a day is the minimum for support services to be reachable.,A
+"If projected data must be easily understandable, on a 10x10 projection screen 90% of viewers must be able to determine that Events or Activities are occurring in real-time from a viewing distance of 100",US
+The system response time on a 56k connection must be no more than 6 seconds.,PE
+Each user shall either be trusted or not trusted.,SE
+The system response time for all operations must be less than 3 seconds on a 112k connection.,PE
+The campus map covers the campus of the TU/e.,FR
+SOA to NPAC SMS interface and the NPAC SMS to Local SMS interface shall support data origin authentication for each incoming message.,SE
+"During the holiday season, the system must be able to handle increased traffic.",SC
+The product has to support modular updates.,MN
+"In case of system restarts, the system will maintain transaction logs.",FT
+It should be possible for a service profile to be associated with each identity within a CPN subscription.,O
+Ability for the user to delegate their permissions to another user.,SE
+The application needs to be designed for performance on both high-end and low-end hardware to make it easy for users with different computing resources to use it.,O
+Client authentication ensures that an authorised client/operator is operating the equipment.,SE
+"In this case, user can change his/her username, email address, profile picture and password. If the user changes his/her username or password, a notification mail will be sent to the user's email address. The changes will apply if the user clicks on the link in the email.",FR
+The application needs to verify the integrity of backups.,FT
+On reception at the CNG of a message to access or update configuration information the CNG shall allow access only if the sender is an administrator.,SE
+Product shall be tested and validated on a minimum of 10 different hardware configurations.,O
+70% of users will find a solution within 3 minutes.,US
+The system will support high-contrast mode for users with visual impairments.,US
+Growing user bases in emerging markets require continuous operation of the application.,SC
+The system has to detect and mitigate potential failures.,FT
+NPAC SMS shall provide security documentation that defines and describes procedures for adding users.,SE
+All online transactions shall be processed within 5 seconds of submission.,A
+5)detect unauthorized activities; and,SE
+Product shall run on Solaris operating system.,PO
+All text elements in the user interfaces are presented in the selected language (for language selection see requirement UCAR101. The available languages are mentioned in UCAR002 and UCAR003),US
+All business processes in the Disputes System shall be conducted in accordance with the guidelines of the Fair Debt Collection Practices Act.,L
+The application has to have a guarantee of 98.8% throughout the year.,A
+System downtime shall be limited to 15 minutes per quarter.,A
+The system will support various versions of the system.,PO
+A cohort shall be associated to one Program of Study offered by the department.,FR
+15 minutes of downtime per week is what the software is not allowed to exceed.,A
+It is expected that the application will work on both large and small screens.,PO
+The system must not accept overlong input data.,SE
+All code changes will be supported by the application.,MN
+80% of users should complete training within 30 minutes.,MN
+High availability for critical data processing is ensured by the product.,A
+The application needs to be high availability for global users.,SC
+The company's colors should be used.,LF
+The system shall filter data by,FR
+The system needs to be able to support 1 billion transactions per year.,SC
+seamless user data migration should be possible with the product.,PO
+"The application will allow users to work together in real-time, with 80% of users reporting improved productivity.",US
+Product updates shall be performed in accordance with established maintenance schedules to minimize downtime and ensure continuous availability.,MN
+"An error during this process means there was a problem parsing the sentence and creating the generic question. In this case, return a message such as ""Sorry, I didn't understand that.""",FR
+Access must be available from 10am to 7pm on weekdays.,A
+Icons are according to the Android Icon Guidelines.,FR
+View the details of all employees and control the whole site.,FR
+"The system have only three roles for coordinators, suppliers and customers only that make our system secure access online and these authentications will prevent and illegal access.",SE
+"When a ship is docked, the product shall simulate the sound of a ship's horn being sounded.",LF
+Product documentation shall be updated and revised annually to reflect changes and improvements to the product.,MN
+The product will be able to display calendar dates and times according to locale.,US
+"If the user changes his/her username or password, a notification mail will be sent to the user's email address.",FR
+The product will allow for user-customizable settings.,O
+The product will provide asynchronous messaging to enable parallel processing and reduce the overhead in communications.,PE
+The product will provide a knowledge base and user guide to assist users.,O
+The City of Chicago Application Development Guide Framework will provide a structured Graphical User Interface.,LF
+The Computer Fraud and Abuse Act requires all actions taken by users to be in compliance.,L
+Product shall be capable of processing 5000 transactions per hour within two years of its launch.,SC
+"7)prevent loss, modification or misuse of information exchanged between organisations.",SE
+Tools for analyzing maintenance data will be offered by the system.,MN
+The system needs to be deployable on different platforms.,PO
+Product shall be capable of supporting 1000 nursing students and,SC
+Secure data transfer over the Internet could be provided using SSL encryption that will be configured by the host system administrator.,SE
+The system will be used by real estate agents.,US
+"Website shall be available for use 365 days a year, excluding holidays.",A
+The system must follow the guidelines set by the DOJ.,L
+The system will support real-time monitoring.,MN
+The system shall allow user to register for newsletters and surveys in the profile.,FR
+"When a game is restarted, the product shall simulate the sound of a referee's whistle being blown to signal the start of play.",LF
+"Responsive feedback mechanisms, such as highlighting and animation, will show successful completion of user actions.",LF
+The system will provide a contractual agreement with the internet service provider who can provide the highest availability on the internet.,A
+Users will be able to interact with the system from different geographic locations using secure connections with the product.,O
+"Product shall be available for use at any time of year, including holidays.",A
+When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.,LF
+A 30-day notice period shall be provided to developers for any changes in coding standards or design patterns.,MN
+This portable application should be able to function on multiple operating systems without any issues.,PO
+The application will run on a server.,O
+"Within 1 minute of being inactive, the session timeout warning will display.",PE
+The product can be used for logging user activities.,O
+Users will be able to import data from various formats.,MN
+"Product shall be able to process 10,000 transactions per hour within the first 6 months of operation.",SC
+The system will follow the laws set forth by the FTC.,L
+The system will keep a buffer to temporarily store data.,FT
+User feedback will be provided in case of transaction failures.,FT
+The system will follow the Fair Credit Billing Act.,L
+The system will support additional hardware and resources.,SC
+The interface needs to be easy to use for most users.,US
+"The product will be able to support deployment in on-premise, hybrid, and public cloud models.",PO
+The product should allow for seamless data export and import.,PO
+"During peak usage times, the system will process all user login requests within a maximum of 4 seconds.",PE
+Ensuring updates are reflected across all devices within 1 second is what the system shall support.,PE
+The product needs to be compatible with the latest version of the database.,O
+The user interface of the application will make it easy for new users to learn.,O
+A minimum of 4 administrators shall be available to handle urgent issues within 1 minute.,PE
+"System shall have a maximum downtime of 30 minutes per month, excluding planned maintenance.",A
+The product will make sure that theUI elements are designed for touch interactions.,LF
+Availability for online platforms will be ensured by the product.,A
+The software will support integration with machine learning.,PO
+The NIST Cybersecurity Framework guidelines state that all data must be protected.,L
+System shall be able to run on a variety of Linux distributions including Red Hat and SUSE.,PO
+Product shall be able to handle up to 3000 concurrent video conferencing sessions.,SC
+"System shall be available for use at least 99% of the time, excluding planned maintenance periods.",A
+Product shall allow users to continue working on incomplete tasks even if the internet connection is lost.,FT
+The product shall maintain a list of players.,FR
+Mobile application - Switch result view DESC: A user should be able to switch between a map view and a list view for all search options.,FR
+System should be able to return the search results in desending order in the form of list of links to the sites,FR
+100% of data processing activities must meet legal requirements.,MN
+"85% of users are able to correct issues on their own, with the system displaying error messages in plain language.",US
+Product shall retain user session information in the event of a system failure.,FT
+The product has to implement security best practices.,MN
+The system will provide continuous availability.,A
+The website should have an African feel but not alienating non-Africans.,LF
+"75% of users are at ease purchasing streaming services after 3 weeks, according to an anonymous survey.",US
+The product will make sure the time to generate financial statements is not more than 10 seconds.,PE
+Disputes shall be resolved in accordance with the American Arbitration Association (AAA) rules and procedures.,L
+A minimum of 2 hours of training will be provided to new maintenance developers to ensure they are familiar with the product and its architecture.,MN
+Structural data sources will have their data stored in our database,FR
+"When a shot is blocked by a defender, the product shall simulate the sound of a defender intercepting the shot.",LF
+Product shall be able to manage the existing 1500 users. This number is expected to grow 20 times within the next year.,SC
+"The product will allow for up to 1,000,000 calls per day.",SC
+"System should be able to display "" No results found "" in case no search results found",FR
+The software needs to work across various frameworks.,PO
+"In the first year, the number of mistakes will be halved.",US
+The system will have support for system health checks.,MN
+Authentication addresses security requirements to ensure those using system are who they say they are.,SE
+Load and unload functions must be authenticated using end-to-end security between the card and the card issuer,SE
+"On edge computing environments, the system will be deployable.",PO
+The product shall display room equipment according to search parameters.,FR
+The application will feature animated transitions to make it easier to navigate.,LF
+Users will be able to generate and download reports in under 5 seconds.,PE
+The system will allow for quick integration of third-party services.,MN
+"When changes occur in the underlying data, the application needs to support instantaneous updates to the user interface.",PE
+The product will allow users to easily change their settings.,US
+The system will support additional hardware and resources as needed.,SC
+The product will be expected to operate within the maximum budget for at least 2 years.,MN
+The Americans with Disabilities Act applies to the product.,US
+Real-time monitoring of system performance shall be available within 2 seconds.,PE
+System should have a link back to home in case no results found,FR
+The application will make sure that all of the fonts used are readable on various screen sizes and resolutions.,LF
+The system will be open from 7am to 11pm on weekends.,A
+"During business hours, the system will be able to handle all user requests.",SC
+An employee will be able to use the product in a few minutes.,US
+The application should be able to support 100 concurrent users without any performance degradation.,PE
+The POS device must ensure that it is dealing with an authentic card and guarantee integrity of transactions and batches to the merchant acquirer,SE
+The software must comply with the regulations.,L
+System shall continue to function if the API connection to the external service is lost.,FT
+"Such patients or persons have a right to know what uses and disclosures, in particular, are mandated by law, such as for mandatory reporting of infectious diseases or suspected child abuse or for law enforcement.",SE
+Software updates must be tested in a sandbox environment before being released to production.,MN
+"VLER DAS stores the ""Transaction Type"" (description of action, e.g., Notify of Completed Status) , when available, in an audit log.",SE
+80% of the customer base will be able to install the releases within 5 minutes.,MN
+"In case of critical errors, the product will automatically return to a safe state.",FT
+The product should allow for real-time collaboration on documents.,MN
+Portability of the product is a critical factor in its overall success.,PO
+The installation wizard for the product must be easy to use.,O
+All actions that modify an existing claim case must be recorded in the case history.,L
+99% of all leads will be evaluated in 25 seconds or less.,PE
+"When a ship is repaired, the product shall simulate the sound of tools being used to fix the ship's hull.",LF
+A CPN-user attempting to invoke a CNG-mediated service shall be identified and authenticated by the CNG before being granted access to the service.,SE
+It should be possible to easily migrate data between systems.,PO
+The FFDCA requires software to meet certain requirements.,L
+The National Labor Relations Act requires that the software meet certain requirements.,L
+The application will alert users when there are inconsistencies in data.,FT
+The system must not accept invalid URLs.,SE
+The system should follow the rules of the International Monetary Fund.,L
+"Support for various file formats, including PDF, DOCX, and XLSX, for document compatibility.",O
+Hot patching will be supported by the application.,MN
+NPAC SMS shall ensure proper serialization of update transactions.,SE
+"When streaming a movie, the buffering time should be no longer than 10 seconds.",PE
+A disaster recovery plan is required for the product.,O
+"Mobile application - Profile page DESC: On the mobile application, a user should have a profile page. On the profile page a user can edit his/her information, which includes the password, e-mail address and phone number. A user should also be able to choose what language the mobile application should be set to. The different language choices are Swedish, English, Spanish and French.",FR
+"If there is a critical failure, the product will provide a mechanism to restore service.",FT
+Feedback from users must be collected and analyzed to improve the overall user experience.,US
+Tools for monitoring performance will be provided by the application.,MN
+The product needs to run in multi-tenant cloud environments.,PO
+The application will alert administrators if there's data corruption.,FT
+"NPAC SMS shall provide each Service Provider with a numbered list of encryption keys, numbered from 1 to 1000.",SE
+The sound of a sinking ship will be recreated with the product.,LF
+"When a shot is scored by a defender, the product shall simulate the sound of a defender scoring on an opponent.",LF
+"In case of critical failures, the product will perform automatic rollback.",FT
+Product shall be capable of handling peak traffic times such as holidays and special events.,SC
+Testing updates will be provided in a sandbox environment.,MN
+Consistency for all users is ensured by the application allowing for real-time data sync across multiple geographic regions.,SC
+The product will allow priviledged users to view meeting schedules in multiple reporting views.,FR
+Product shall be available for use 24 hours per day seven days a week.,A
+"Under standard load, the product must have a maximum response time of 2 seconds.",O
+Users will report their overall satisfaction with the product.,US
+The system will use a method to verify data integrity.,FT
+The product can be used in any environment that allows access to the Web.,PO
+The application will feature collapsible sections and panels that will allow users to hide or show content as needed.,LF
+High availability and disaster recovery will be ensured by the system.,PO
+Private identities of non-IMS capable CNDs can be stored by the CNG.,O
+The IQA subsystem shall take into account current inventory status and adjust inventory of substitutionary ingredients accordingly.,FR
+The application will support rollback of failed updates.,MN
+The system will support redundant channels for data transfer.,FT
+"Restaurant Owner Account Security GIST: Security of restaurant owners accounts. SCALE: A restaurant owner and IP address should not be able to log-in for a certain time period after three times of failed log-in attempts. METER: 1000 attempts to log-in during the lock period after user account has been locked because of failed log-in attempts of three times. MUST: The locking period should be half an hour, and during that period the log-in function is disabled.",SE
+A robust reporting engine is required for the product to generate detailed reports on system usage and performance.,O
+The system will allow for handicap access.,US
+The availability rate must be at least 85%.,A
+The application needs to be able to handle a lot of concurrent users.,PO
+Immediate feedback for user- initiated data uploads will be provided by the product.,PE
+The system shall allow a real estate agent to query MLS information,FR
+The interface will use grids to organize content.,LF
+A collapsible sidebar will be included in the product.,LF
+The product needs to allow easy customization by end- users.,MN
+The product will feature easy to understand error messages.,US
+Users must be able to access the content in less than 3 clicks.,US
+Offline mode will be used whenever internet connection is unavailable.,FT
+Currently owned computer equipment will be utilized by the System.,O
+Access to the DUAP system shall be limited to users authorized by MDOT.,SE
+The product will have a notification center that will allow users to switch contexts without having to do so.,LF
+Regular fault tolerance testing and drills will be supported by the software.,FT
+A comprehensive testing framework is required by the product.,MN
+Users will have access to the service all year round.,A
+The system shall interface with CampusConnect's central server,O
+seamless integration of additional server is what the product must allow for.,SC
+The rapid processing of real-time data feeds will be handled by the product.,PE
+Interface with the Choice Parts System at least twice a day.,O
+Users will be able to export reports in PDF format.,O
+Real-time data synchronization will ensure updates are reflected across all devices within 1 second.,PE
+The system will be able to handle the requirements for future expansions.,SC
+The product must comply with the European Union's Consumer Rights Directive.,L
+The vehicle data shall include vehicle year make and model,FR
+The system should provide secure data exchange capabilities.,SE
+The product must comply with the Foreign Corrupt Practices Act.,L
+Users will be able to get notifications for important updates.,US
+It also mandates that security patches which fix known security problems either be applied when available or else effective alternative steps be taken to address the security problem.,SE
+Responsible for informing administrator when any product item’s stock goes under the minimum level.,FR
+2 million users will be supported by the system.,SC
+The product has to comply with the European Union's Consumer Rights Directive.,L
+The product shall prevent its data from incorrect data being introduced.,SE
+"The System shall provide an online capability for the Government to approve subscription requests for xDRs, Ancillary, NOAA-Unique, and Tailored Data Products.",SE
+Middleware technology team shall provide training and documentation for new product installations and upgrades within established launch time frames.,O
+The software is required to work with the networks.,PO
+LAN interfaces. The CNG shall be equipped with at least one Ethernet (minimum 100 Mbit/s) is interface. Optional interfaces could be present e.g.: wireless LAN Wi-Fi Alliance certified Powerlines Plastic Optical Fiber USB device and/or host one or more FXS for analog telephony DECT Cat-iq.,FR
+The customer network devices will support mechanisms to identify and share information about them within the customer environment.,O
+The product will be able to adapt for future language requirements in emerging markets.,US
+"NPAC SMS shall ensure that generated passwords are ""reasonably"" resistant to brute-force password guessing attacks.",SE
+"Every 30 seconds, the order tracking feature will provide an update.",PE
+All data will be protected against unauthorized access by the system.,O
+The product should have a consistent color scheme.,LF
+"Load balancing and high availability are required for 100,000 requests per minute.",SC
+Compliance with the EBA regulations is supported by the system.,L
+Support shall be available through a dedicated customer support team.,O
+Automatic updates will allow for the installation of new features without user intervention.,O
+Keep track of all the payment transactions made by the customers and update the payment information.,FR
+The product needs to provide a mechanism for user feedback analysis.,MN
+The product will have a user-friendly interface.,O
+"When forwarding packets from the WAN interface to the customer network, the CNG can either manage a number of queues corresponding to the different priorities detected in the classification phase for each packet processed, send the packets to some internal buffers or simply drop the packet.",PE
+The system will give a toll free number for support.,A
+The Uniform Computer Information Transactions Act requires online transactions to comply.,L
+Large-scale distributed computing tasks should be able to be handled by the software.,PO
+"The product will allow users to reset their account settings with a single click, making it easy to use for most users.",US
+Integration with email marketing platforms is supported by the product.,O
+Search results will be returned in under four seconds.,PE
+"Up to 50,000 data points per minute will be handled by the product.",SC
+The system will ensure that all elements are in line with the guidelines for branding and design.,LF
+The calculations performed by the system must comply according to the norms set by the user and should not vary unless explicitly changed by the user.,L
+Both legacy and modern systems should be compatible with the system.,PO
+The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.,FR
+"Retrieve password DESC: Given that a user has registered, then the user should be able to retrieve his/her password by e-mail.",FR
+Ensuring that users can find relevant information quickly is one of the requirements of the product.,US
+"Support team shall be available for phone support on weekdays only, excluding public holidays.",A
+The company's colors and logos should be used.,LF
+System will allow customers to pay for a streaming movie with a pre-paid card.,FR
+"The Facebook ""like"" interface should be according to the Facebook Guidelines.",SE
+The service needs to be available at least 98% of the time.,A
+The application will maintain a 100% uptime for essential features.,A
+"System shall let customers register on the website as a ""unlimited movie subscriber"" user in under 10 minutes.",PE
+The system shall allow the administrator to install additional distributed location templates.,FR
+"The product should be compatible with a wide range of operating systems, including but not limited to Windows, macOS, and various distributions of Linux.",O
+PHI should not be collected indiscriminately.,SE
+The goal is to achieve a reasonable level of platform independence since the software needs to run on several popular hardware platforms.,PO
+All transactions must have system logs generated.,MN
+The help button will be prominently displayed on all pages.,LF
+Access will be available from 8am to 8pm on weekdays.,A
+Disputes application must maintain a detailed history of every action that a merchant takes on a customer complaint case.,L
+The software system needs a robust security mechanism in place so that unauthorized users are not allowed access to parts of the system.,SE
+98% of users will find what they need within three clicks if the application has an accessible search function.,US
+"A portable system should be able to run on different operating systems, including Linux and macOS.",PO
+"When a shot is scored, the product shall simulate the sound of a celebratory crowd cheering in the background.",LF
+The software can be used on tablets and phones.,PO
+System shall continue to provide basic functionality in case of partial database failure.,FT
+The product needs to enable data import/export in common formats.,O
+Select Swedish as preferred language Given the administrator wants to select a preferred language When the administrator selects Swedish as a new language Then the web-portal will show all text in Swedish,FR
+Automated response to user inquiries shall occur within 3 seconds.,PE
+Cross- platform execution is required for the application to work.,PO
+The product will reduce the number of clicks needed to complete the task.,US
+Movies can only be streamed if the customer has purchased a movie and is within the 2-day time period to stream the movie.,FR
+The application should work correctly in different deployment configurations.,PO
+The software needs to support real-time updates on mobile networks.,PO
+The software will meet the requirements of the FFIEC.,L
+NPAC SMS shall provide a mechanism to immediately notify the NPAC SMS system administrator when the threshold in R7-33.1 is exceeded.,SE
+A user-friendly interface is required for resolving system errors.,FT
+The audit logs have to comply with SEC regulations.,L
+"An EHR-S must be capable of including or interfacing with standards-conformant security services to ensure that any Principal (user, organization, device , application, component, or object) accessing the system or its data is appropriately authenticated, authorized and audited in conformance with local possibly and possibly jurisdictional policies.",SE
+Product shall be capable of processing 15000 transactions per hour within two years of its launch.,SC
+85% of users find keyboard navigation to be more user-friendly when it comes to interactive elements.,US
+All organisations connecting to the EHRi must subject potential users of POS systems that connect to the EHRi to a formal user registration process.,SE
+The application will allow administrators to track system performance and identify potential issues before they occur.,O
+The system needs to provide tools to track changes.,MN
+The source code will adhere to an agreed upon set of coding standards for each language used.,MN
+seamless data transfers between redundant storage solutions shall be supported by the software.,FT
+The system will be improved for both performance and capacity.,PO
+The help desk will be open from 8am to 10pm.,A
+All business rules specified in the Product Liability shall be in compliance with the guidelines of the National Highway Traffic Safety Administration.,L
+The product will comply with all the data protection regulations.,L
+The application will make it easy for 90 percent of users to find the tools they need by logically organizing the menus and the toolbars.,US
+A secure connection with the Choice Parts System shall be established.,O
+A clear audit trail is needed for all user actions.,MN
+The architecture of the system will extend the functions.,MN
+All data contained within a patient or person's EHR is to be considered confidential and its confidentiality uniformly protected.,SE
+The product must be able to scale large datasets.,SC
+Availability of the product shall be tracked and reported on a monthly basis.,A
+"The product needs to offer multiple language options, with most users able to switch languages without difficulty.",US
+User preferences shall be retained in the event of a system failure and restored upon restart.,FT
+User authentication shall be successful within 3 seconds.,PE
+Dependent databases/filesystems shall be able to recover from a failure in a timely manner to minimize downtime.,FT
+The system interface must use the same terminology used in the existing system.,LF
+The RFS system should be able to interface with the BDW environment.,O
+Voice commands for hands-free operation will be supported by the interface.,LF
+The product will provide a mechanism to prevent crashes from invalid entries.,FT
+"The events and outcomes associated with the specified notification will be recorded in VLER DAS audit logs, and can be used to aid in tracking the exam result through the system.",SE
+The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds,PE
+"During operational hours, the application will ensure a 99.7% uptime.",A
+The application will include interactive tutorials that will help users through key features.,LF
+The application needs to be able to handle future expansions.,SC
+User preferences shall be preserved even in the event of a system failure or data loss.,FT
+The product will show a progress bar when data is being processed.,LF
+The software must meet the requirements of the USDA.,L
+System shall achieve 99.5% up time.,A
+The system will record the event and duration for leads that process for more than 25 seconds.,PE
+"The product will be easy for beginners to use, and will take less than 4 minutes to complete.",US
+The customer network devices will support mechanisms to identify and share information within the customer environment.,O
+The application will use a flat design aesthetic.,LF
+Search form should be added to home page,FR
+Product updates will be delivered through a combination of automated and manual processes to ensure reliability and efficiency.,MN
+Product shall be able to recover from unexpected data corruption.,FT
+Customers must have a valid login id to enter into the site.,SE
+The system will have a user-friendly interface.,MN
