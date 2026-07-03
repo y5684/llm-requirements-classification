@@ -35,7 +35,7 @@ Full results for fine-tuning methods (RQ1) and for model size/architecture compa
 ---
 
 ### RQ3
-We evaluate **six prompting templates** (2 tasks × 3 styles). All templates enforce an exact final label in `<label>…</label>`.
+We evaluate **six prompting templates** (2 tasks × 4 styles). All templates enforce an exact final label in `<label>…</label>`.
 
 **Binary — Basic**
 ```text
@@ -96,6 +96,80 @@ Final rules:
 - Do not output anything after </label>.
 
 Answer:
+```
+**Binary — Few-shot**
+```text
+System:
+You are a precise software requirements engineer. Use few-shot examples and return only one final label tag.
+
+User:
+Requirement:
+The system shall have a MDI form that allows for the viewing of the graph and the data table.
+
+Classify into FR or NFR. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>FR</label>
+
+User:
+Requirement:
+The system must authenticate users prior to accessing an application or data.
+
+Classify into FR or NFR. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>NFR</label>
+
+User:
+Requirement:
+The system shall display the Events in a graph by time.
+
+Classify into FR or NFR. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>FR</label>
+
+User:
+Requirement:
+The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.
+
+Classify into FR or NFR. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>NFR</label>
+
+User:
+Requirement:
+The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.
+
+Classify into FR or NFR. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>FR</label>
+
+User:
+Requirement:
+If projected the data must be understandable. On a 10x10 projection screen 90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100
+
+Classify into FR or NFR. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>NFR</label>
+
+User:
+Requirement:
+{requirement}
+
+Classify into FR or NFR.
+Final rules:
+- Output exactly one line as <label>...</label>
+- Do not output anything else.
 ```
 **Multi — Basic**
 ```text
@@ -198,6 +272,140 @@ Final rules:
 - Do not output anything after </label>.
 
 Answer:
+```
+**Multi — Few-shot**
+```text
+System:
+You are a precise software requirements engineer. Use few-shot examples and return only one final label tag.
+
+User:
+Requirement:
+The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>FR</label>
+
+User:
+Requirement:
+Only planned maintenance periods will allow limited downtime.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>A</label>
+
+User:
+Requirement:
+The ESIGN Act requires the system to meet certain requirements.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>L</label>
+
+User:
+Requirement:
+The application will have background themes that reflect seasonal changes.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>LF</label>
+
+User:
+Requirement:
+End users will be able to easily switch between different application modes without affecting the overall performance of the product.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>MN</label>
+
+User:
+Requirement:
+Users must be allowed to integrate personal calendars.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>O</label>
+
+User:
+Requirement:
+Within 6 seconds of a completed purchase, the application will generate invoices.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>PE</label>
+
+User:
+Requirement:
+Streaming server shall support 75 simultaneous streaming connections, with the ability to scale up to 200 connections by Release 3.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>SC</label>
+
+User:
+Requirement:
+The system must protect user identities from other users.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>SE</label>
+
+User:
+Requirement:
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>US</label>
+
+User:
+Requirement:
+The system will make sure that user preferences are kept safe.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>FT</label>
+
+User:
+Requirement:
+Application should be able to run on various network configurations, including Wi-Fi and Ethernet connections.
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO. Output exactly one line:
+<label>...</label>
+
+Assistant:
+<label>PO</label>
+
+User:
+Requirement:
+{requirement}
+
+Classify into FR/A/L/LF/MN/O/PE/SC/SE/US/FT/PO.
+Final rules:
+- Output exactly one line as <label>...</label>
+- Do not output anything else.
 ```
 The prompting-only results are presented below.
 
