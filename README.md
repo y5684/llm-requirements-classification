@@ -1,5 +1,5 @@
 # results-llm-requirements-classification
-Complete experimental results for the paper “Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques”: binary &amp; 12-class metrics.
+Complete experimental results for the paper “Requirements Classification with Large Language Models under a Unified Experimental Framework: A Systematic Empirical Study”: 
 
 ## Dataset — Enhanced Dataset for Requirements Classification
 
