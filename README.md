@@ -8,7 +8,7 @@ This repository releases the datasets used in our requirements-classification st
 ---
 
 ## Code Overview
-The code/ folder contains the core scripts used in our experiments. Under RQ1&RQ2/, we provide training/evaluation pipelines for the three backbone families: encoder-only_2.py / encoder-only_12.py, encoder-decoder_2.py / encoder-decoder_12.py, and decoder-only_2.py / decoder-only_12.py, covering the binary (FR vs. NFR) and 12-class tasks under a unified protocol. The RQ3/ folder handles prompting-only inference: llama_prompt_api.py calls instruction-tuned models via API, and llama_prompt_local.py runs the same templates and parsing locally.
+The code/ folder contains the core scripts used in our experiments. Under this folder, we provide training/evaluation pipelines for the three backbone families: encoder-only_2.py / encoder-only_12.py, encoder-decoder_2.py / encoder-decoder_12.py, and decoder-only_2.py / decoder-only_12.py, covering the binary (FR vs. NFR) and 12-class tasks under a unified protocol.
 
 ---
 
