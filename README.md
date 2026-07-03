@@ -16,7 +16,7 @@ The code/ folder contains the core scripts used in our experiments. Under this f
 Complete experimental results for the paper **“Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques.”**  
 Tasks: **Binary (FR vs. NFR)** and **12-Class (FR + 11 NFR subcategories)**.  
 Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on instruction-tuned models**.
-**Full metrics tables**: Accuracy, Weighted-Precision, Weighted-Recall and Weighted-F1 for RQ1–RQ3.
+**Full metrics tables**: Accuracy, Weighted-Precision, Weighted-Recall and Weighted-F1 for RQ1–RQ4.
 
 ---
 
@@ -35,7 +35,7 @@ Full results for fine-tuning methods (RQ1) and for model size/architecture compa
 ---
 
 ### RQ3
-We evaluate **six prompting templates** (2 tasks × 4 styles). All templates enforce an exact final label in `<label>…</label>`.
+We evaluate four prompting styles for both binary and 12-class classification. All templates enforce an exact final label in `<label>…</label>`.
 
 **Binary — Basic**
 ```text
@@ -411,6 +411,9 @@ The prompting-only results are presented below.
 
 📊 **RQ3**
 ![RQ3 Leaderboard](results/RQ3_Sheet1.png)
+
+### RQ4
+RQ4 evaluates whether instruction-tuned open-weight decoder-only LLMs still require supervised task adaptation for requirements classification. We compare three settings: without tuning, best prompting-only inference, and best supervised tuning, and the results are presented below.
 
 📊 **RQ4**
 ![RQ4 Leaderboard](results/RQ4_Sheet1.png)
