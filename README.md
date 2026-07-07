@@ -13,7 +13,7 @@ The code/ folder contains the core scripts used in our experiments. Under this f
 ---
 
 ## Results — LLMs for Requirements Classification
-Complete experimental results for the paper **“Requirement Classification with Large Language Models: Empirical Insights into Fine-Tuning and Prompting Techniques.”**  
+Complete experimental results for the paper **“Requirements Classification with Large Language Models under a Unified Experimental Framework: A Systematic Empirical Study”**  
 Tasks: **Binary (FR vs. NFR)** and **12-Class (FR + 11 NFR subcategories)**.  
 Experiments: **Tuning on non-instruction checkpoints** and **Prompting-only on instruction-tuned models**.
 **Full metrics tables**: Accuracy, Weighted-Precision, Weighted-Recall and Weighted-F1 for RQ1–RQ4.
