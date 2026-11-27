@@ -281,17 +281,17 @@ When a game is ended the product shall allow each player to remove himself or he
 The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.,US
 The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.,PE
 On a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.,PE
-The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.,MN
-The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE
+The product shall be internet browser independent. The product must run using Internet Explorer and Netscape Navigator.,MN
+The product shall ensure that only supervisors can view schedule of all callers. The product must ensure that supervisors are allowed to access advertise empty time slots.,SE
 The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.,LF
 The interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.,LF
-The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.,LF
-The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),US
-The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.,PE
-The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds,PE
-The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.,SC
-The product shall continue to operate during upgrade change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.,MN
-The product shall have security.The product shall provide authentication and authorization.,SE
+The product shall provide GUI based Monitoring Services. System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.,LF
+The product shall provide Portals. The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),US
+The product shall provide Multi-threading and Load Balancing. The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.,PE
+The product shall process messages within 2 seconds. The product shall have a maximum message processing time of 2 seconds,PE
+The product shall be able to process all transactions. The product shall process minimum of 1 million transactions per year.,SC
+The product shall continue to operate during upgrade change or new resource addition. The product shall be able to continue to operate with no interruption in service due to new resource additions.,MN
+The product shall have security. The product shall provide authentication and authorization.,SE
 The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.,SE
 The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.,SC
 The Brio portion of the WCS system must be able to export files in spreadsheet form (Microsoft Excel and Lotus 1-2-3 formats). Brio will provide buttons in the user interface that produce/export reports in .xls or .123 file formats.,O
@@ -331,7 +331,7 @@ For each class within a sequence for a cohort Program Administrators and Nursing
 Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes,FR
 Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.,MN
 The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications,FR
-The system shall filter data by,FR
+The system shall filter data by the user.,FR
 The system shall allow a user to define the time segments,FR
 The RFS system should be available 24/7 especially during the budgeting period. The RFS system shall be available 90% of the time all year and 98% during the budgeting period. 2% of the time the system will become available within 1 hour of the time that the situation is reported.,A
 The RFS system should be able to easily interface with the BDW environment in order to load the data. 7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year. The data will be as of October month-end. Test files (7) shall be loaded up to 5 times throughout the year from the BDW.,O
@@ -340,7 +340,7 @@ New branches/complexes/districts/regions and revenue/expense accounts added to t
 Only authorized user shall access the RFS system. ONLY users that exist in the UAS system with the RFS system assigned to their role(s) shall access the RFS system and use it.,SE
 The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.,LF
 The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion. With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.,US
-The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.not be more than 10 seconds.,PE
+The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds. not be more than 10 seconds.,PE
 The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.,FR
 The system will notify affected parties when changes occur affecting clinicals including but not limited to clinical section capacity changes and clinical section cancellations.,FR
 The system will notify affected parties when changes occur affecting classes including but not limited to class cancellations class section detail changes and changes to class offerings for a given quarter.,FR
@@ -348,9 +348,9 @@ The feature of the application shall provide the optimized route for the given a
 This feature provides the user to select an optimized route for the addresses given and fixing any path between the desired locations.,FR
 "Fast internet connection is not mandatory, but it would increase the performance of the application",PE
 "As Google Maps API is being used for this application, it is mandatory that we abide by the terms of use specified by Google",SE
-After installing the Application from iTunes or the App store the user will be asked to login.,FR
+After installing the Application from iTunes or the App store the user will be asked to log in.,FR
 "Upon successful login, the user can select from the following catalogue options: Spring 2013 ,Winter 2013",FR
-"Based on the selection the product categories will be listed: Outerwear,Soft Shell,Fleece,Knits,Wovens,Active Wear, Safety,Accessories,Team Wear, e.c.o. Collection",FR
+"Based on the selection the product categories will be listed: Outerwear, Soft Shell, Fleece, Knits, Wovens, Active Wear, Safety, Accessories, Team Wear, e.c.o. Collection",FR
 Once a category is selected the product thumbnail images will appear for selection.,FR
 A user can then select the product and view the details.,FR
 The detail page will contain all the same features and information as the website.,FR
@@ -359,7 +359,7 @@ From the here the user can either proceed to call a rep for an order or proceed 
 Once the icon is selected two open text field will be available to the user to search for the product name - by product ID/SKU or by keyword.,FR
 Following a successful query the search feature will query the application database to display the search results. Following an unsuccessful query the search feature will display an error message that no matches were found,FR
 A user can select the desired product from the results and proceed to the product details.,FR
-"Upon successful login, the user can select from the following catalogue options, search or use the sub navigation to find the following items: Catalogue ,Videos,Contact Us",FR
+"Upon successful login, the user can select from the following catalogue options, search or use the sub navigation to find the following items: Catalogue , Videos, Contact Us",FR
 "Should a user select videos, the 360 video list will display. Upon selecting a video it will play on their device.",FR
 All users shall be able to zoom into images using the standard gestures on mobile devices.,FR
 All Users will be able to view the next product by swiping left to right .,FR
@@ -711,7 +711,7 @@ This unit will replace the representations in the generic answer with data.,FR
 "If querying the database did not provide an answer, the system will say that it does not have an answer and provide appropriate website link where the user could find the answer. Example message, ""I don't know when Rush Building closes, but here is the website of the building.""",FR
 "If the system could not find appropriate website associated with the question, the system will return a generic error message such as ""Sorry, I couldn't find an answer to that.""",FR
 A MySQL database will be used to store all information required to answer questions.,FR
-"The database is populated by the information extraction unit before the rest of the system is available, so that all information is readilyaccessible.",FR
+"The database is populated by the information extraction unit before the rest of the system is available, so that all information is readily accessible.",FR
 The database will use the generic representations from R4.2.2.1 as table names or column headers for easier retrieval of data.,FR
 Structural data sources will have their data stored in our database,FR
 "For data with enough structuring, web scraping will be used to programmatically extract all the data needed and store it in our database.",FR
@@ -764,8 +764,8 @@ The Disputes application shall interface with the Cardmember Information Databas
 The Disputes applications shall interface with the Merchant Information Database. The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.,O
 The Disputes application shall interface with the Letters application. This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.,O
 The Disputes application shall interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant's accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.,O
-The Disputes application shall ensure that only authorized users are allowed to logon to the application.,SE
-All authorized users once authenticated must be able to logon to the Disputes System,SE
+The Disputes application shall ensure that only authorized users are allowed to log on to the application.,SE
+All authorized users once authenticated must be able to log on to the Disputes System,SE
 If a user account is revoked it can only be re-instantiated by the System Administrator.,SE
 Only the System Administrator shall be able to reset a revoked user logon account,SE
 The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.,SE
@@ -782,8 +782,8 @@ While streaming a movie buffering should only occur if there is latency in the u
 The system shall reveal private information only in compliance with the organization's information policy.,SE
 "System shall allow users to update their billing and contact information via the ""My Account"" section of the website.",FR
 The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player's ships which had not been previously marked as sunk.,FR
-The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.,A
-The product shall ensure that only supervisors can enter a caller's schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE
+The system shall have high availability every day of the year. The system must be available for use between 12:00AM and 6:00PM all days of the year.,A
+The product shall ensure that only supervisors can enter a caller's schedule. The product must ensure that supervisors are allowed to access advertise empty time slots.,SE
 The interface must summarize the data in a fashion that's appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface,LF
 Reports must be easy to generate. Reports must be generated within one button click and exported within one button click (after selecting the report),US
 The WCS system shall be available at all times as long as IBM's internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM's internal intranet W3 is available.,A
@@ -864,7 +864,7 @@ Responses to view information shall take no longer than 5 seconds to appear on t
 The system shall accommodate large data items without fault.,FT
 Unauthorised users can only read data without modifying anything.,SE
 ABS shall handle all expected and unexpected errors in ways that prevent loss in information and long downtime period.,FT
-Authenticate and Login user to the web app.,FR
+Authenticate and Log in user to the web app.,FR
 Enable new users to register to the tech support system.,FR
 Enable a registered user to change his password if he forgets his password.,FR
 Enable a registered user to view his profile. Additional information viz. questions asked by him and answers posted by him are also displayed.,FR
@@ -887,10 +887,10 @@ It must be able to download the most recent medical record.,FR
 It must only update the parts that have changed when connecting to the server.,O
 It must be able to change and update information on the server.,O
 The application must log the user out when it is exited.,SE
-A correct combination of username and password is required for a user to login.,SE
+A correct combination of username and password is required for a user to log in.,SE
 The user must be able to set an option to hide information based on who has tagged it.,FR
 The user must be able to add photos from his/her photo library to his/her medical record.,FR
-It must allow a user to login.,FR
+It must allow a user to log in.,FR
 All information must be updatable on the website.,FR
 It must allow a user to download a backup of their medical information.,FR
 Logout must be automatic after 1 hour of inactivity.,SE
@@ -937,7 +937,7 @@ View the details of all employees and control the whole site.,FR
 Customers must have a valid login id to enter into the site.,SE
 Can purchase any product through valid credit card.,FR
 Can give feedback to the 24X7 Customer Care Service center about their impression for the site and services.,FR
-Customer must logout of the site after purchasing products.,FR
+Customer must log out of the site after purchasing products.,FR
 Can only visit the site without registration.,FR
 Vendors must take permission from the Administrator for selling their products under the site. Administrator will test product’s quality according to its market price to permit vendor for selling purpose.,FR
 Can consult with the Administrator regarding product’s quality and advertisements.,FR
@@ -969,7 +969,7 @@ Customized information is displayed.,FR
 Each entry is shown in full.,FR
 The text and time/date of a note that has been entered is displayed starting with most recent.,FR
 A description and time/date of each prescription that has been ordered or given is displayed starting with most recent.,FR
-All users of the system shall login using some form of unique identification.,SE
+All users of the system shall log in using some form of unique identification.,SE
 All login attempts shall be done so in a secure manner.,SE
 The system shall be compatible with the Microsoft Windows Operating System.,O
 The system shall allow the administrator to remove equipment.,FR
@@ -1000,8 +1000,8 @@ The system shall allow users to view equipment information.,FR
 The system shall allow users to view other users’ information.,FR
 The system shall allow user to specify custom meeting locations.,FR
 The system shall allow users to view location information.,FR
-The system shall allow users to search for available distributed location templates(if any).,FR
-The system shall allow users to view information concerning the available distributed location templates(if any).,FR
+The system shall allow users to search for available distributed location templates (if any).,FR
+The system shall allow users to view information concerning the available distributed location templates (if any).,FR
 The web application shall add no more than 5 seconds of perceivable overhead time to any necessary web and database transaction time.,PE
 User authentication and privileges are defined outside the scope of the sytem by the Microsoft Active Directroy Server.,SE
 Personal information security is defined outside the scope of the SDMS by the database server.,SE
@@ -1073,7 +1073,7 @@ The performance shall depend upon hardware components of the client/customer.,PE
 The system shall use secure sockets in all transactions that include any confidential customer information.,SE
 The system shall automatically log out all customers after a period of inactivity.,SE
 The system shall allow the user to register for an account from any page in the system.,FR
-The system will use a single password per user to login to the E-Store System.,SE
+The system will use a single password per user to log in to the E-Store System.,SE
 The system shall use secure socket layer (SSL) technology to ensure all payments made online and user logins are secure.,SE
 The system may be throttled or slowed down on heavy loads to ensure service for everybody. By throttling is meant that certain functionality may be unavailable during heavy server load.,PE
 The application should be able to support 100 concurrent users without any performance degradation.,PE
@@ -1087,7 +1087,7 @@ The system should be easy enough to maintain that someone else could do it with 
 The system should be portable to various operating environments.,PO
 Registered User must be able to maintain his/her session information for at least 60 minutes of inactive session before the system prompts him to log out of the system. The registered user must be provided with all the options of the E-store regardless of the time when he/she logs in.,FR
 The entire website must be user-friendly and easily navigable. The website must be provided with a site map for quick access to a particular link according to the requirement specification. The user must be able to find what he/she wants from the site without any difficulty. The website must adhere to branding schemes and the layout of the web pages must be uniform throughout,US
-The system shall support up to 10000 simultaneous users against the central database at any given time and up to 5000 simultaneous users against the local servers at any one time. The performance of the website must be optimal incase of huge loads and hence appropriate load balancing must be done to achieve this. There can be any number of mirror servers readily available in case of huge loads without the user getting any delay.,PE
+The system shall support up to 10000 simultaneous users against the central database at any given time and up to 5000 simultaneous users against the local servers at any one time. The performance of the website must be optimal in case of huge loads and hence appropriate load balancing must be done to achieve this. There can be any number of mirror servers readily available in case of huge loads without the user getting any delay.,PE
 The website must provide highest degree of security to the registered users. All the transactions that are made must be secured. The sensitive information passed to and from the website must be secured. Identity theft and other security related issues must be solved. Unauthorized transmission of sensitive information of the user to third party websites for reference must be avoided. On the basis of user agreement the information must be processed. All the information about the registered user must be securely stored in the central database.,SE
 The System must allow the user to limit access to cases to specified users or user groups.,SE
 The system should provide for role-based control for the functionality within the system.,SE
@@ -1176,7 +1176,7 @@ NPAC SMS shall use smart cards to authenticate users accessing the NPAC SMS via 
 NPAC SMS shall provide a mechanism to end the session through secure logoff procedures.,SE
 "NPAC SMS shall ensure that the message is NPAC SMS-specifiable to meet their own requirements, and any applicable laws.",SE
 NPAC SMS shall be able to display an advisory warning message of up to 20 lines in length prior to login.,SE
-NPAC SMS shall default the pre-login advisory warning message to the following:,SE
+"NPAC SMS shall default the pre-login advisory warning message to the following: NPAC SMS access is limited to approved work. If you are not authorized to use this system, close this screen without attempting to sign in.",SE
 NPAC SMS shall display the date and time of the user's last successful system access upon successful login.,SE
 "NPAC SMS shall display the number of unsuccessful attempts by that userId to access the system, since the last successful access by that userId upon successful login.",SE
 NPAC SMS shall only allow the NPAC Security Administrator to authorize users.,SE
@@ -1285,8 +1285,8 @@ NPAC SMS shall provide a mechanism for authorized NPAC personnel to change a use
 The system should record changes to application entities in the form of the “created user/time” and “modified user/time” fields.,SE
 System administrative staff has full visibility and control of user privileges.,SE
 "System supports secure protocols, including SFTP, SSL, and SSH.",SE
-"Extraction (this feature is described in previous chapters) of the content of encrypted(locked) archives through PeaZip, shouldn't be allowed without inserting the correct password and (if existing) keyfile for authentication.",SE
-"Moreover, recovering the password and the keyfile that one PeaZip user has inserted or set to an archive(this feature is described in previous chapters)by any other user of the computer system or the application, through the application itself or in general the computer system.",SE
+"Extraction (this feature is described in previous chapters) of the content of encrypted (locked) archives through PeaZip, shouldn't be allowed without inserting the correct password and (if existing) keyfile for authentication.",SE
+"Moreover, recovering the password and the keyfile that one PeaZip user has inserted or set to an archive (this feature is described in previous chapters) by any other user of the computer system or the application, through the application itself or in general the computer system.",SE
 "Finally, no data remains from data that have been selected to be securely deleted should be left in the storing area of the computer system after the end of the procedure of secure deletion (described in previous chapter), in case of selection of this feature.",SE
 One username/password must be provided for the owner of each vessel,SE
 The owner is then able to set up subsidiary users such as the master of the vessel with their own username and password.,SE
@@ -1349,7 +1349,7 @@ Grid technologies shall be utilized to provide secure and reliable communication
 "Not all Gatekeeper account holders will have access to the GridBGC system, Users must be approved by the GridBGC administrator(s) for access.",SE
 Users must use the existing Gatekeeper tools to manage their passwords.,SE
 "NCAR Gatekeeper password policies will be governed by the NCAR Gatekeeper tools and policies, Enforcement of these policies and procedures will NOT be enforced through the GridBGC portal.",SE
-The system shall require the user to enter their username and password to login to the system.,SE
+The system shall require the user to enter their username and password to log in to the system.,SE
 All login actions shall be protected by using secure data channels.,SE
 The system shall lock the account after 3 login attempts. This will require portal admin action to unlock the account.,SE
 Admin users will be authenticated against the portal database.,SE
@@ -1499,7 +1499,7 @@ The DUAP System shall log Administrative Services data transactions.,SE
 The DUAP Presentation Services shall require users to uniquely identify themselves.,SE
 The DUAP Presentation Services shall require users to confirm their identity.,SE
 Access to the DUAP system shall be limited to users authorized by MDOT.,SE
-No other actor should be able to view another's grades except an actor in the role of course administrator for the course towhich the grades belong.,SE
+No other actor should be able to view another's grades except an actor in the role of course administrator for the course to which the grades belong.,SE
 The system must provide the management of user rights and permissions.,SE
 "Information that the product will collect or store, which need access protections include user specified color palettes and their store of access permissions.",SE
 Access to this information must be private.,SE
@@ -1711,9 +1711,9 @@ Every entry in the health record must be identified with the author and should n
 "1) The system shall provide the ability to fully comply with the requirements for patient privacy and confidentiality in accordance with a user's scope of practice, organizational policy, or jurisdictional law.",SE
 2) The system shall conform to function IN.1.1 (Entity Authentication).,SE
 3) The system shall conform to function IN.1.2 (Entity Authorization).,SE
-4) The system shall conform to function IN.1.3 (EntityAccess Control).,SE
+4) The system shall conform to function IN.1.3 (Entity Access Control).,SE
 5) The system should conform to function IN.1.5 (Non- Repudiation).,SE
-6) The system shall conform to function IN.1.6 (Secure DataExchange).,SE
+6) The system shall conform to function IN.1.6 (Secure Data Exchange).,SE
 "Statement: Keep patient identities and conditions invisible to the public and other providers who do not have ""need to know"" on public tracking screens.",SE
 "Statement: Provide audit capabilities for system access and usage indicating the author, the modification (where pertinent), and the date and time at which a record was created, modified, viewed, extracted, or deleted.",SE
 "There is a requirement for system audit trails for the following events: Loading new versions of, or changes to, the clinical system; Loading new versions of codes and knowledge bases; Taking and restoring of backup; Changing the date and time where the clinical system allows this to be done; Archiving any data; Re-activating of an archived patient record; Entry to and exiting from the clinical system; Remote access connections including those for system support and maintenance activities;",SE
@@ -1772,7 +1772,7 @@ Information contained within a patient or person's EHR may carry with it the leg
 "As logs will themselves contain confidential information, they must be made both secure and tamper-proof.",SE
 "In addition to logging overrides of a patient or person's consent directives (Item b in the list above) and alerting accountable individuals that a consent override has occurred (item c in the list above), there is also a related requirement to notify patients or persons when access has been deemed inappropriate (see Privacy Requirement 20).",SE
 "Healthcare providers require all relevant PHI from a patient or person's medical history in order to definitively diagnose and safely treat a patient or person. Therefore, when patients or persons request that their healthcare provider mask or lock components of their PHI, it may not be possible for their healthcare team to provide appropriate care.",SE
-"Where required to do so by law ,the EHRi and POS systems connected to the EHRi must have the ability to indicate when consent is given on behalf of a patient or person by a substitute decision maker (e.g. consent given by an authorized representative), as well as identify this substitute decision maker and the substitute decision maker's relation to the patient or person.",SE
+"Where required to do so by law , the EHRi and POS systems connected to the EHRi must have the ability to indicate when consent is given on behalf of a patient or person by a substitute decision maker (e.g. consent given by an authorized representative), as well as identify this substitute decision maker and the substitute decision maker's relation to the patient or person.",SE
 "Organisations connecting to the EHRi and organisations hosting components of the EHRi must not, as a condition of the supply of a service, require a patient or person to consent to the collection, use or disclosure of PHI beyond that required to fulfill the explicitly specified and legitimate purposes.",SE
 "As such, rules for collection, use and disclosure should be strictly delineated and observed because patients will often not object to certain PHI collections, uses and disclosures in light of ""vulnerable""health circumstances.",SE
 "In the rare circumstances where a patient withdraws or withholds consent and the healthcare provider believes that care cannot be provided safely, the healthcare provider may determine that it is appropriate to refuse to provide treatment.42",SE
@@ -1905,7 +1905,7 @@ Such agreements would clarify the mutual custodial responsibilities of jurisdict
 "Of all security requirements protecting PHI, one of the most important is audit and logging.",SE
 These ensure accountability for patients or persons entrusting their information to electronic health record systems and also ensure that users will conform to policies on acceptable use of the EHRi.,SE
 "Audit records should contain the necessary information to answer the following questions: 1)For a given user, what PHI did they access, create or update and when? 2)or a given element of PHI, what users have accessed, created or updated it and when?",SE
-"1) A trustee shall ensure every electronic information system that the trustee designs or acquires after December 11, 2000: a) produces an electronic record of every successful or unsuccessful attempt to i) gain access to the personal health information maintained on the system, ii) add to, delete or modify the personal health information maintained on the system; and",SE
+"1) A trustee shall ensure every electronic information system that the trustee designs or acquires after December 11, 2000: a) produces an electronic record of every successful or unsuccessful attempt to i) gain access to the personal health information maintained on the system, ii) add to, delete or modify the personal health information maintained on the system; and b) allows authorized audit staff to retrieve those records by date range and action type.",SE
 "To construct an authoritative transcript of which users have accessed a patient or person's PHI or what PHI a user has accessed, all audit records will need to be accessible and hence audit requirements meeting the strictest existing jurisdictional legal requirements are essential to support full interoperability across jurisdictions.",SE
 Rationale: Such an audit log allows reconstruction of the state of any EHR stored within the POS system at any point in time.,SE
 The EHRi may be required to keep a record of all cross-jurisdictional transfers of PHI.,SE
@@ -2008,7 +2008,7 @@ Audit logging must be sufficient in detail to facilitate reconstruction of event
 All requests and responses for the store action must be logged in the audit log.,SE
 "The events and outcomes associated with the specified exam result will be recorded in VLER DAS audit logs, and can be used to aid in tracking the exam result through the system.",SE
 1) VLER DAS stores event descriptions in an audit log for a minimum of six (6) years.,SE
-"2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Store); f) Organization Name the document is received from or sent to; g) Event Description (e.g.,refer to audit logging events below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Authority, Assigning Facility;",SE
+"2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Store); f) Organization Name the document is received from or sent to; g) Event Description (e.g., refer to audit logging events below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Authority, Assigning Facility;",SE
 3) VLER DAS stores the event description information in an audit log for the following events: a) VLER DAS receives a request from a producing application to store an exam result; b) VLER DAS calls the VA Identity Management (IdM) for the Patient ID; c) VLER DAS sends a request to the Health Data Repository (HDR) to store an exam result; d) VLER DAS receives a response from HDR regarding storage of the exam result;,SE
 "VLER DAS stores the ""Unique Identifier"" for the exam result, when available, in an audit log.",SE
 "VLER DAS stores the ""Date Status Modified"" (Date, Time, and Time Zone) , when available, in an audit log",SE
@@ -2020,19 +2020,19 @@ All requests and responses for the store action must be logged in the audit log.
 VLER DAS stores the event description information in an audit log for the following event: VLER DAS calls the VA Identity Management (IdM) for the Patient ID.,SE
 All requests and responses for the retrieve action must be logged in the audit log.,SE
 "2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Retrieve); f) Organization Name the document is received from or sent to; g) Event Description (e.g., refer to audit logging events below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Authority and Assigning Facility.",SE
-3) VLER DAS stores the event description information in an audit log for the following events:,SE
+3) VLER DAS stores the event description information in an audit log for the following events: a) a consuming application cancels a pending exam-result retrieval; and b) the Health Data Repository completes a retrieval request without returning any matching exam results.,SE
 b) VLER DAS sends a request to the Health Data Repository (HDR) to retrieve a list (first pass) of exam results,SE
 "VLER DAS stores the ""Creation Date"" (Date, Time, and Time Zone) , when available, in an audit log.",SE
 "VLER DAS stores the ""Transaction Type"" (description of action, e.g., Retrieve) , when available, in an audit log.",SE
 "VLER DAS stores the ""Patient ID"" (EDIPI, if not available then ICN, if neither available then SSN) , ""Assigning Authority"" and ""Assigning Facility"", when available, in an audit log.",SE
 "As the Business Owner, I want the Virtual Lifetime Electronic Record (VLER) Data Access Services (DAS) to log all requests or responses that it receives or sends in relation to the storage of an exam result status so that VLER DAS is in compliance with Department of Veterans Affairs (VA) system auditing requirements and can assist with troubleshooting.",SE
 All requests and responses for the store exam result status action must be logged in the audit log.,SE
-"2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Store Status); f) Organization Name the document is received from or sent to; g) Event Description (e.g.,refer to audit logging events below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Authority and Assigning Facility.",SE
+"2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Store Status); f) Organization Name the document is received from or sent to; g) Event Description (e.g., refer to audit logging events below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Authority and Assigning Facility.",SE
 "VLER DAS stores the ""Transaction Type"" (description of action, e.g., Store Status) , when available, in an audit log.",SE
 "As the Business Owner, I want the Virtual Lifetime Electronic Record (VLER) Data Access Services (DAS) to log all notifications for exam results stored with a status of ""Completed ""so that VLER DAS is in compliance with Department of Veterans Affairs (VA) system auditing requirements and can assist with troubleshooting.",SE
 "All requests and responses for the notify of """"Completed"""" status action must be logged in the audit log.",SE
 "The events and outcomes associated with the specified notification will be recorded in VLER DAS audit logs, and can be used to aid in tracking the exam result through the system.",SE
-"2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Notify of Approval); f) Organization Name the notification is sent to; g) Event Description (e.g.,refer to audit logging event below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Facility, and Assigning Authority;",SE
+"2) VLER DAS stores the following attributes, when available, in an audit log: a) Unique Identifier for the exam result; b) Creation Date (Date, Time, and Time Zone); c) Date Status Modified (Date, Time, and Time Zone); d) System ID (Fully Qualified Domain Name); e) Transaction Type (description of action, e.g., Notify of Approval); f) Organization Name the notification is sent to; g) Event Description (e.g., refer to audit logging event below ); h) Patient ID (EDIPI, if not available then ICN, if neither available then SSN) , Assigning Facility, and Assigning Authority;",SE
 "VLER DAS stores the ""Transaction Type"" (description of action, e.g., Notify of Completed Status) , when available, in an audit log.",SE
 "VLER DAS stores the ""Organization Name"" the notification is sent to, when available, in an audit log.",SE
 "VLER DAS stores the ""Patient ID"" (EDIPI, if not available then ICN, if neither available then SSN) , ""Assigning Facility"", and ""Assigning Authority"", when available, in an audit log.",SE
@@ -2092,13 +2092,13 @@ The number of possible values defining the packet priority and by consequence th
 The CNG shall classify packets coming from the CPN through its LAN interfaces (upstream direction) according to a number of predefined priorities. Classification can be done on the basis of different layer 2 and/or layer 3 parameters.,PE
 The number of possible values defining the packet priority and by consequence the number of queues managed in the upstream direction shall be coherent with the number of concurrent services (data communication entertainment) to be treated and supported.,PE
 When forwarding packets from the customer network to the WAN interface the CNG shall manage a number of queues corresponding to the different priorities detected in the classification phase for each packet processed.,PE
-The CNG shall be able to classify intra-LAN traffic that is simply bridged by the CNG itself within the CPN.,PE
+The CNG shall sustain a throughput of at least 500 Mbps while classifying intra-LAN traffic bridged within the CPN.,PE
 Traffic marking: depending on what are the parameters used to perform classification CNDs or CNG itself on behalf of the CNDs shall be able to modify the packets' priority.,PE
 In case of huge amount of traffic in upstream or downstream directions a congestion management mechanism shall be implemented in the CNG to minimize the impact from the user experience point of view.,PE
 In case of managed services QoS rules applied by CNG shall be configurable by a remote management system.,PE
 In case of unmanaged services user shall be able to access a QoS configuration function implemented in the CNG.,FR
-CNG shall be equipped with an application client to be remotely manageable by the service providers for configuration monitoring firmware upgrade purposes. In case of multiple service providers multiple clients configuring different sets of parameters (for example referring to different services) may be present. A single parameter can be modified by a single client only.,FR
-CNG shall support mechanisms for secure authentication and communication with the remote management system.,SE
+The CNG shall allow a service provider to schedule a firmware upgrade for a specified maintenance window through its remote management client.,FR
+The CNG shall reject remote management commands replayed from a previous authenticated session.,SE
 The CNG shall be associated with a unique Hardware ID to be used for identification NGN side.,SE
 A suitably authorized CPN user (e.g. the system administrator) shall be able to install and activate NGN managed services without the intervention of the subscribing CPN user.,FR
 A suitably authorized CPN user (e.g. the system administrator) shall be able to manage and configure the provisioning capabilities and use of NGN managed services from an NGN access point outside the CPN.,FR

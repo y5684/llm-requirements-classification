@@ -16,7 +16,7 @@ All additions of new users and modifications to user's access shall be recorded 
 At the start of each turn the product shall notify each player of his or her status.,FR
 The system should also record information about various sensitive inventory management operations such as deleting items and changing the price of items.,SE
 NPAC SMS shall ensure that the security audit data is available on-line for a minimum of 90 days.,SE
-It must allow a user to logout.,FR
+It must allow a user to log out.,FR
 Security Domains enforce the security policies of their off-card Security Domain Provider.,SE
 Identifying and (where appropriate) protectively labelling information assets as confidential can be an important tool in staff training and awareness.,SE
 Can view all available products and can compare them and make a choice for purchasing products.,FR
@@ -86,7 +86,7 @@ The CEP card verifies that the PSAM is the PSAM used in the original transaction
 On reception at the CNG of a message to access configuration information for update and detection of authorization failure the CNG shall reject the request and manage the failure in accordance with the CPN authorization management handling policy.,SE
 All on-line messages must have the ability to include card issuer discretionary data from the CEP card,FR
 For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.,O
-With the use of an existing Passport account the user can login to the messenger.,SE
+With the use of an existing Passport account the user can log in to the messenger.,SE
 New users can sign up by creating new ID.,FR
 Each team owner will need to use a username and password in order to be authenticated to reach the team owner's page,SE
 Log in to an account shall require entry of an account name and a password.,SE
@@ -107,8 +107,8 @@ An example of User based authorization is a patient defined denial of access to 
 The system must provide authentication capabilities.,SE
 A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.,FR
 The system must secure all modes of data exchange.,SE
-The system is expected to have reasonable short time response. The voter should be able to login and should be able to get response for his requests in 2-3 seconds.,PE
-The system shall provide a way to extract goals data-usage information according toas per the user's privacy preferences in accordance with the P3P standard.,SE
+The system is expected to have reasonable short time response. The voter should be able to log in and should be able to get response for his requests in 2-3 seconds.,PE
+The system shall provide a way to extract goals data-usage information according to as per the user's privacy preferences in accordance with the P3P standard.,SE
 The system must provide the ability to view the change history of particular data to authorized users.,SE
 "The first type, general user, shall only be permitted to utilize a limited set of the capabilities of the tool.",SE
 The system should facilitate login.,SE
@@ -178,7 +178,7 @@ The customer shall be able to easily integrate new building maps with the produc
 The CNG shall support mechanisms for managing IPTV flows provided both in unicast and multicast mode.,FR
 The card issuer generates S2 which is sent to the card to allow the card to validate the card issuer's authenticity and to ensure that the data used by the card in the transaction is the same as the card issuer intended,SE
 It suffices that such tools be available when needed.,SE
-An application instance shall be able to be reusable every semester for a returning student.The user will be able to update their class schedule by having the application check for a registered schedule set for the next semester and if the current school semester is over.Application components will be able to be integrated into the larger RU Mobile application developed and maintained by Radford University.,LF
+An application instance shall be able to be reusable every semester for a returning student. The user will be able to update their class schedule by having the application check for a registered schedule set for the next semester and if the current school semester is over. Application components will be able to be integrated into the larger RU Mobile application developed and maintained by Radford University.,LF
 1) MVI (Master Veteran Index) will be the only system used by the DAS (Data Access Service) for any identity management function.,SE
 Send transactions to card issuers or their processors in a standard format defined in agreement with the scheme provider,FR
 "Restaurant Owner Account Security GIST: Security of restaurant owners accounts. SCALE: A restaurant owner and IP address should not be able to log-in for a certain time period after three times of failed log-in attempts. METER: 1000 attempts to log-in during the lock period after user account has been locked because of failed log-in attempts of three times. MUST: The locking period should be half an hour, and during that period the log-in function is disabled.",SE
@@ -213,7 +213,7 @@ The audit report shall be displayed to the user.,FR
 Agenda is restricted to what is available in the feeds on the list of agenda RSS-feeds.,FR
 The product shall prevent a player from viewing the offensive or defensive grids of the other player.,FR
 "NLM Staff Metadata Access: Provides an NLM Staff Level allowing access to staff to add or edit descriptive metadata (without changing the files themselves) for production and work related needs such as cataloging, indexing and modifying metadata.",SE
-"Each command (at the device sensor command, device command(macro), or system operational command (super macro) level) shall only be executed when a valid or good status exists for all device sensors, An authorized user shall be able to log in and issue device status requests and control commands from specified computers in the network, This is determined based on the user's access level and authorized workstations.",SE
+"Each command (at the device sensor command, device command (macro), or system operational command (super macro) level) shall only be executed when a valid or good status exists for all device sensors, An authorized user shall be able to log in and issue device status requests and control commands from specified computers in the network, This is determined based on the user's access level and authorized workstations.",SE
 The leads washing functionality will have an interface in which lead data parameters can be maintained.,FR
 The system must encrypt sensitive data that are transmitted over the Internet between the server and the browser.,SE
 The CNG and the Customer Network shall provide the opportunity for a customer network administrator to perform service and network-related configuration. According to the service/network provider choices the CNG and Customer Network may prevent - user initiated modification of network and service related parameters.,SE
